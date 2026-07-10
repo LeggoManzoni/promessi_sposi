@@ -1,0 +1,19 @@
+{
+  "title": "I Promessi Sposi (Quarantana, 1840): a facsimile-aligned TEI edition",
+  "upload_type": "dataset",
+  "language": "ita",
+  "version": "1.0.0",
+  "license": "cc-by-nc-4.0",
+  "creators": [
+    {"name": "Nava, Beatrice"},
+    {"name": "Russo, Ersilia"},
+    {"name": "Levchenko, Maria"}
+  ],
+  "keywords": ["TEI", "digital philology", "Alessandro Manzoni",
+               "I promessi sposi", "facsimile", "IIIF", "text alignment"],
+  "related_identifiers": [
+    {"relation": "isDerivedFrom", "identifier": "https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest", "scheme": "url"},
+    {"relation": "references", "identifier": "9788887924275", "scheme": "isbn"}
+  ],
+  "notes": "The TEI text encoding is from the LeggoManzoni project, part of the Manzoni Online initiative (https://www.alessandromanzoni.org). Page images and IIIF service by the FICLIT Digital Library, Università di Bologna (not redistributed). Licensed CC BY-NC 4.0. DOI: TODO (Zenodo). Creator ORCIDs: TODO."
+}

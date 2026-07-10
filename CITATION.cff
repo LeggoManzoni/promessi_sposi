@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "I Promessi Sposi (Quarantana, 1840): a facsimile-aligned TEI edition"
+type: dataset
+version: 1.0.0
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Nava
+    given-names: Beatrice
+    # orcid: TODO
+  - family-names: Russo
+    given-names: Ersilia
+    # orcid: TODO
+  - family-names: Levchenko
+    given-names: Maria
+    # orcid: TODO
+# doi: TODO (minted by Zenodo on deposit)
+references:
+  - type: book
+    title: "I promessi sposi"
+    authors:
+      - family-names: Manzoni
+        given-names: Alessandro
+    editors:
+      - family-names: "Poggi Salani"
+        given-names: Teresa
+    publisher:
+      name: "Centro Nazionale Studi Manzoniani"
+    year: 2013
+    isbn: "9788887924275"

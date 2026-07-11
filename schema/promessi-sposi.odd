@@ -6,7 +6,7 @@
         <title>TEI ODD: encoding scheme for <title level="m">I Promessi Sposi</title>, Quarantana edition (1840)</title>
         <respStmt>
           <resp>ODD authored by</resp>
-          <name>facsimile-alignment project (Task 5, offline TEI validator + Zenodo package)</name>
+          <name>facsimile-alignment project</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -28,24 +28,23 @@
       <div>
         <head>Scope</head>
         <p>This ODD documents the TEI customization used for the Quarantana <title level="m">Promessi
-        Sposi</title> digital edition and is the canonical source for two artifacts checked at
-        validation time: the tightened schema (RelaxNG, generatable with the TEI Stylesheets'
-        <ident>teitorelaxng</ident> — see the note at the end of this document) and the Schematron
-        project rules embedded below as <gi>constraintSpec</gi> (extracted verbatim into
-        <ident>schema/promessi-sposi.sch</ident>, the copy the pipeline actually runs against; see
-        <ref target="pipeline/validate_tei.py">pipeline/validate_tei.py</ref>). The shipped, offline
-        validator runs three layers: <hi rend="italic">tei_all</hi> RelaxNG (structural), this
-        Schematron (project rules), and Python cross-file referential-integrity checks; this ODD covers
-        the first two.</p>
+        Sposi</title> digital edition and is the canonical source for two artifacts: the tightened
+        schema (RelaxNG, generatable with the TEI Stylesheets' <ident>teitorelaxng</ident> — see the
+        note at the end of this document) and the Schematron project rules embedded below as
+        <gi>constraintSpec</gi> (extracted verbatim into <ident>schema/promessi-sposi.sch</ident>, the
+        runnable copy). Release validation of the dataset runs three layers — <hi rend="italic">tei_all</hi>
+        RelaxNG (structural), this Schematron (project rules), and cross-file referential-integrity
+        checks — and its results are recorded in <ref target="docs/validation-report.md">docs/validation-report.md</ref>;
+        this ODD covers the first two.</p>
       </div>
 
       <div>
         <head>schemaSpec</head>
         <schemaSpec ident="promessi-sposi" start="TEI div">
           <!-- Both start symbols are needed: "TEI" validates a complete document (header.xml,
-               facsimile.xml, listPerson.xml, and each chapter file, all of which are standalone
-               <TEI> documents), while "div" validates a bare <div> fragment — the unit the
-               alignment pipeline round-trips through when it rewrites a single chapter's body. -->
+               facsimile.xml, and listPerson.xml are standalone <TEI> documents), while "div"
+               validates a bare <div> fragment — the form in which intro.xml and
+               cap1.xml–cap38.xml are stored. -->
           <moduleRef key="tei"/>
           <moduleRef key="header"/>
           <moduleRef key="core"/>
@@ -65,8 +64,8 @@
             <gi>gloss</gi>, <gi>desc</gi>, <gi>ident</gi>) used to write this ODD.</item>
             <label>header</label>
             <item><gi>teiHeader</gi> and its descendants: <gi>fileDesc</gi>, <gi>titleStmt</gi>,
-            <gi>respStmt</gi>/<gi>resp</gi> (nine named transcribers plus the automated alignment
-            pipeline's credit line), <gi>publicationStmt</gi>, <gi>sourceDesc</gi>, <gi>availability</gi>,
+            <gi>respStmt</gi>/<gi>resp</gi> (nine named contributors — seven encoders and two
+            supervisors — plus the automated alignment pipeline's credit line), <gi>publicationStmt</gi>, <gi>sourceDesc</gi>, <gi>availability</gi>,
             <gi>particDesc</gi>/<gi>listPerson</gi>/<gi>person</gi> (the 8-entry prosopography in
             <ident>listPerson.xml</ident>), <gi>profileDesc</gi>, <gi>encodingDesc</gi>,
             <gi>editorialDecl</gi>, <gi>projectDesc</gi>, <gi>revisionDesc</gi>/<gi>change</gi>.</item>
@@ -77,20 +76,20 @@
             <gi>list</gi>/<gi>item</gi> (used here for this ODD's own gloss lists).</item>
             <label>textstructure</label>
             <item><gi>div</gi> (one per chapter and the introduction; <att>type</att> values
-            <val>introduzione</val> and <val>capitolo</val>) and the ancestor <gi>text</gi>/<gi>body</gi>
-            elements every chapter file wraps its content in.</item>
+            <val>introduzione</val> and <val>capitolo</val>) and the <gi>text</gi>/<gi>body</gi>
+            elements used when the bare-fragment chapter files are assembled into a complete
+            <gi>TEI</gi> document.</item>
             <label>transcr</label>
             <item>the facsimile-linking apparatus: <gi>facsimile</gi>, <gi>surface</gi>, <gi>zone</gi>
             (all in <ident>facsimile.xml</ident>), and the <att>facs</att> attribute this module adds to
-            ordinary text-layer elements (<gi>lb</gi>, <gi>pb</gi>, <gi>w</gi>, <gi>figure</gi>,
+            ordinary text-layer elements (<gi>lb</gi>, <gi>pb</gi>, <gi>figure</gi>, chapter-opening
             <gi>head</gi>) so they can point into the facsimile layer. Also covers <gi>add</gi>
             (two editorial insertions, both <att>resp="#F.S."</att>, in <ident>cap15.xml</ident> and
             <ident>cap25.xml</ident>).</item>
             <label>figures</label>
             <item><gi>figure</gi> (438 uses; <att>type</att> values <val>capolettera</val>,
-            <val>intestazione</val>, <val>altre_illustrazioni</val>), <gi>graphic</gi> (in both the text
-            layer, pointing at <ident>./assets/img/*.jpg</ident>, and the facsimile layer, pointing at the
-            page scan) and <gi>figDesc</gi>.</item>
+            <val>intestazione</val>, <val>altre_illustrazioni</val>), <gi>graphic</gi> (in the facsimile layer,
+            pointing at the IIIF page image) and <gi>figDesc</gi>.</item>
             <label>linking</label>
             <item>the <att>corresp</att> attribute (figure &#8594; DLRC IIIF item page; <gi>bibl</gi> &#8594;
             a <ident>listBibl</ident> entry by <att>xml:id</att>) and <att>sameAs</att> (already part of
@@ -101,40 +100,21 @@
             inline in running text), <gi>placeName</gi>, <gi>orgName</gi>.</item>
             <label>analysis</label>
             <item><gi>w</gi> &#8212; the single most frequent element in the corpus (215,968 occurrences),
-            one per tokenized word, each carrying an <att>xml:id</att> and, where aligned, a
-            <att>facs</att> pointer to a facsimile <gi>zone</gi>. <hi rend="italic">Note:</hi> this
+            one per tokenized word, each carrying an <att>xml:id</att>; a word's facsimile line is
+            given by the nearest preceding <gi>lb</gi>, not by a <att>facs</att> of its own. <hi rend="italic">Note:</hi> this
             module is not in the brief's originally proposed module list, but <gi>w</gi> is the TEI
             element for tokenized words and its home module is <ident>analysis</ident> — omitting it
             would leave the schema unable to validate the single most common element in the dataset, so
             it is added here.</item>
           </list>
 
-          <p>House convention: the dataset carries one intentional deviation from plain TEI core — two
-          paragraphs, one in <ident>intro.xml</ident> and one in <ident>cap1.xml</ident>, both containing
-          nothing but a single drop-cap <gi>figure</gi>/<gi>graphic</gi> pair, carry
-          <att>type="capolettera"</att>. This is a house convention inherited from the Manzoni Online
-          edition (Universit&#224; di Bologna) and is deliberately kept rather than normalized away.
-          Standard <ident>tei_all</ident> does not sanction <att>type</att> on <gi>p</gi>, so this
-          <gi>schemaSpec</gi> customizes the element to permit it:</p>
-          <elementSpec ident="p" mode="change" module="core">
-            <attList>
-              <attDef ident="type" mode="add">
-                <desc>marks a paragraph whose sole content is a drop-cap (capolettera) illustration
-                placeholder, rather than running prose. Used twice in the whole corpus:
-                <ident>intro.xml</ident> and <ident>cap1.xml</ident>.</desc>
-                <valList type="closed">
-                  <valItem ident="capolettera">
-                    <gloss>the paragraph contains only a <gi>figure</gi>/<gi>graphic</gi> pair rendering
-                    the chapter's illuminated initial letter; it carries no transcribed word (<gi>w</gi>)
-                    content.</gloss>
-                  </valItem>
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec>
-          <p>This is the only element customization this <gi>schemaSpec</gi> makes. <att>sameAs</att> on
+          <p>Drop-cap initials (capolettera) are encoded within plain TEI: the engraved initial is a
+          <gi>figure</gi> with <att>type="capolettera"</att> (from <ident>att.typed</ident>), placed
+          inline at the start of the chapter's opening paragraph, after that paragraph's first
+          <gi>lb</gi>; the first word of the chapter remains intact and complete in the text. This
+          <gi>schemaSpec</gi> therefore makes no element customizations. <att>sameAs</att> on
           <gi>bibl</gi> (carried by 15 of the 35 entries in <ident>header.xml</ident>'s <gi>listBibl</gi>,
-          each pointing at an <ident>alessandromanzoni.org</ident> catalogue record) needs no such
+          each pointing at an <ident>alessandromanzoni.org</ident> catalogue record) likewise needs no
           customization: it is already part of TEI's <ident>att.global.linking</ident> attribute class,
           available on <gi>bibl</gi> without any schema change.</p>
 
@@ -144,7 +124,7 @@
           <gi>zone</gi> carries <att>ulx</att>/<att>uly</att>/<att>lrx</att>/<att>lry</att> (bounding box,
           top-left/bottom-right) and a <att>points</att> polygon; the project Schematron below asserts the
           box is well-formed (left-to-right, top-to-bottom) in addition to the semantic checks. Text-layer
-          elements (<gi>lb</gi>, <gi>pb</gi>, <gi>w</gi>, <gi>figure</gi>, chapter-opening <gi>head</gi>)
+          elements (<gi>lb</gi>, <gi>pb</gi>, <gi>figure</gi>, chapter-opening <gi>head</gi>)
           point into this layer with <att>facs="facsimile.xml#&lt;xml:id&gt;"</att>. Every <gi>zone</gi>
           declares a semantic role in its <att>type</att> attribute; the five values actually used, and
           what each means, are:</p>
@@ -159,7 +139,7 @@
               <cell><val>line</val></cell>
               <cell>one line of running body text</cell>
               <cell>must carry <att>n</att> (line number on the page); linked from exactly one text-layer
-              <gi>lb</gi> or <gi>w</gi></cell>
+              element — an <gi>lb</gi>, or a chapter-opening <gi>head</gi> for the 39 heading lines</cell>
             </row>
             <row>
               <cell><val>illustration</val></cell>
@@ -179,15 +159,13 @@
             <row>
               <cell><val>signature</val></cell>
               <cell>the gathering signature mark printed at the foot of the page (e.g. "3", "3*")</cell>
-              <cell>marginalia: expected to carry no transcribed text; see the alignment pipeline's
-              position-first heuristics for garbled page-foot marks on gathering boundaries</cell>
+              <cell>marginalia: expected to carry no transcribed text; page-foot marks on gathering
+              boundaries were identified by position when the printed mark itself was unclear</cell>
             </row>
           </table>
           <p>The following <gi>constraintSpec</gi> is the canonical source of the project's Schematron
-          rules; <ident>schema/promessi-sposi.sch</ident> is its extracted, runnable copy — the file the
-          offline validator (<ref target="pipeline/validate_tei.py">pipeline/validate_tei.py</ref>,
-          <ident>run_schematron()</ident>) actually loads. The two must be kept in sync by hand; this ODD
-          is authoritative if they ever diverge. The first three patterns (<ident>zone-type</ident>,
+          rules; <ident>schema/promessi-sposi.sch</ident> is its extracted, runnable copy. The two must
+          be kept in sync by hand; this ODD is authoritative if they ever diverge. The first three patterns (<ident>zone-type</ident>,
           <ident>line-needs-n</ident>, <ident>marginalia-no-text</ident>) enforce exactly the table above;
           the fourth (<ident>facs-syntax</ident>) enforces the cross-layer pointer syntax used throughout
           the text layer.</p>
@@ -230,25 +208,15 @@
 
       <div>
         <head>On the RelaxNG layer and a known libxml2 limitation</head>
-        <!-- The tightened, project-specific RelaxNG schema can be generated from this ODD with the
-             TEI Stylesheets (teitorelaxng); the shipped offline validator instead runs plain tei_all.rng
-             (schema/tei_all.rng) plus this document's Schematron, which is simpler to keep reproducible
-             without a Java/XSLT2 toolchain in the pipeline's dependency set. -->
         <p>A project-specific RelaxNG schema tightened to exactly this <gi>schemaSpec</gi> (rejecting,
         for instance, any element outside the modules selected above) can be generated from this ODD
-        with the TEI Stylesheets' <ident>teitorelaxng</ident> transform. The validator actually shipped
-        with this repository does not do that: it runs the untightened <ident>tei_all.rng</ident>
-        (structural layer) plus the Schematron embedded above (project-rules layer) plus Python
-        cross-file referential-integrity checks (<ident>pipeline/validate_tei.py</ident>), which is
-        sufficient to catch every deviation this edition cares about without adding a Java/XSLT2
-        toolchain to the pipeline's dependencies.</p>
-        <p><ident>header.xml</ident> and its 35-entry <gi>listBibl</gi> validate cleanly against
-        <ident>tei_all.rng</ident>. (A single malformed <att>sameAs</att> URI — <code>http://http://…</code>
-        on one <gi>bibl</gi> — briefly made libxml2's RelaxNG validator cascade into misleading
-        "unexpected element" errors across the list; correcting the URI resolved them.) The validator's
-        known-issues allow-list (<ident>pipeline/validate_tei.py</ident>, <ident>KNOWN_STRUCTURAL</ident>)
-        therefore records only the two <att>type="capolettera"</att> uses above as accepted structural
-        deviations that must not be mistaken for regressions.</p>
+        with the TEI Stylesheets' <ident>teitorelaxng</ident> transform. Release validation of this
+        dataset does not take that step: it runs the untightened <ident>tei_all.rng</ident>
+        (structural layer) plus the Schematron embedded above (project-rules layer) plus cross-file
+        referential-integrity checks, and records the results in
+        <ref target="docs/validation-report.md">docs/validation-report.md</ref>.</p>
+        <p>No structural deviations from plain <ident>tei_all</ident> are known: the assembled
+        edition validates cleanly against it.</p>
       </div>
     </body>
   </text>

@@ -17,8 +17,10 @@ section. For the formal schema (module selection, embedded Schematron), see
 
 The layers are linked by `@facs`, which always has the form
 `facsimile.xml#<xml:id>` and appears on text elements (`<lb>`, `<pb>`,
-`<figure>`) pointing at the facsimile-layer element (`<zone>` or
-`<surface>`) they correspond to.
+`<figure>`, and chapter-opening `<head>`) pointing at the facsimile-layer
+element (`<zone>` or `<surface>`) they correspond to. Word tokens (`<w>`)
+carry no `@facs` of their own: a word's physical line is given by the
+nearest preceding `<lb>` (or the chapter-opening `<head>`).
 
 ## Element and attribute inventory
 
@@ -27,13 +29,12 @@ The layers are linked by `@facs`, which always has the form
 | Element | Use |
 |---|---|
 | `<div type="capitolo" n="…">` | one chapter |
-| `<head>` | chapter heading (e.g. "CAPITOLO I") |
+| `<head>` | chapter heading (e.g. "CAPITOLO I"), `@facs`-linked to its heading line's `type="line"` zone |
 | `<p>` | paragraph |
 | `<w>` | word token (each carries its own `@xml:id`) |
 | `<lb>` | line break, `@facs`-linked to a `type="line"` zone |
 | `<pb>` | page break, `@facs`-linked to a `<surface>` |
 | `<figure>` | an illustration in the text flow, `@facs`-linked to a `type="illustration"` zone |
-| `<graphic>` | inside `<figure>`, a local thumbnail reference (`url="./assets/img/…"`) |
 | `<hi>` | inline typographic highlight (e.g. italics) |
 | `<note place="bottom">` | footnote |
 | `<milestone unit="comma">` | editorial paragraph/sentence-numbering milestone |
@@ -51,9 +52,9 @@ The layers are linked by `@facs`, which always has the form
 
 | Attribute | Where | Meaning |
 |---|---|---|
-| `@facs` | `<lb>`, `<pb>`, `<figure>` | link to a facsimile-layer id: `facsimile.xml#<id>` |
+| `@facs` | `<lb>`, `<pb>`, `<figure>`, chapter `<head>` | link to a facsimile-layer id: `facsimile.xml#<id>` |
 | `@xml:id` | most elements | stable identifier |
-| `@type` | `<zone>`, `<div>`, `<p>`, `<figure>` | subtype: zone kind (below), `capitolo`/`introduzione`, `capolettera`, etc. |
+| `@type` | `<zone>`, `<div>`, `<figure>` | subtype: zone kind (below), `capitolo`/`introduzione`, figure class (`capolettera`, `intestazione`, `altre_illustrazioni`) |
 | `@n` | `<zone type="line">`, `<div>`, `<surface>`, `<lb>` | ordinal or printed number |
 | `@ulx`/`@uly`/`@lrx`/`@lry` | `<zone>` | bounding box, upper-left / lower-right, in page pixels |
 | `@points` | `<zone>` | polygon outline of the region (a tighter fit than the bounding box) |
@@ -68,7 +69,7 @@ full page image), but never targeted by a text-layer `@facs`.
 
 | `@type` | Meaning | Linked from text? | Count |
 |---|---|---|---|
-| `line` | one physical line of the printed body text | yes — every `<lb>` | 20,579 |
+| `line` | one physical line of the printed body text | yes — 20,540 from `<lb>`, 39 from chapter-opening `<head>` | 20,579 |
 | `illustration` | an engraving/illustration on the page | yes — every `<figure>` | 438 |
 | `runningHead` | the running head at the top of the page | no | 704 |
 | `pageNum` | the printed page number, top centre | no | 703 |
@@ -94,16 +95,19 @@ the shipped data.
   <w>sacri<pb break="no" facs="facsimile.xml#surf_…"/><lb break="no" facs="facsimile.xml#z_…"/>ficarsi</w>
   ```
 - **Capolettera (drop-cap opening)**: the engraved initial letter is encoded
-  as a `<figure>` (linked to its own `type="illustration"` zone), and the
-  first word of the chapter/section remains intact and complete in the text
-  — it is not split around the drop cap:
+  as a `<figure type="capolettera">` (linked to its own `type="illustration"`
+  zone), placed inline at the start of the chapter's opening paragraph,
+  after that paragraph's first `<lb>`. The first word of the chapter/section
+  remains intact and complete in the text — it is not split around the drop
+  cap:
   ```xml
-  <p type="capolettera"><figure xml:id="…" facs="facsimile.xml#z_…"><graphic url="…"/></figure></p>
-  <p><lb n="2" facs="facsimile.xml#z_…"/><w>Quel</w> …</p>
+  <p>
+    <milestone unit="comma" n="1"/>
+    <lb n="2" facs="facsimile.xml#z_…"/>
+    <figure facs="facsimile.xml#z_…" type="capolettera"/>
+    <w>Quel</w> …
+  </p>
   ```
-  A renderer that wants to show the drop cap in place should combine the
-  `<figure type="capolettera">`-context `<p>` with the first word of the
-  paragraph that follows it.
 - **The `@facs` layer discriminator**: `@facs` is what marks an element as
   belonging to the generated facsimile-alignment layer. Almost every `<lb>`
   and `<pb>` in the corpus carries it. Exactly **one** `<lb>` in the whole
@@ -141,11 +145,5 @@ where `x=ulx`, `y=uly`, `w=lrx-ulx`, `h=lry-uly`. See the README's
 
 ## Encoding conventions
 
-Two constructs are deliberate encoding conventions, both valid TEI:
-
-- `<p type="capolettera">` — used twice (`intro.xml`, `cap1.xml`) to wrap the
-  drop-cap `<figure>` as its own paragraph, ahead of the paragraph carrying
-  the first word (see **Milestone conventions** above). `@type` on `<p>` is
-  open-vocabulary.
 - `<bibl sameAs="…">` — links a cited work in `header.xml`'s bibliography to
   an external identifier (`@sameAs` is part of `att.global.linking`).

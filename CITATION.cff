@@ -4,6 +4,14 @@ title: "I Promessi Sposi (Quarantana, 1840): a facsimile-aligned TEI edition"
 type: dataset
 version: 1.0.0
 license: CC-BY-NC-4.0
+keywords:
+  - TEI
+  - digital scholarly edition
+  - Alessandro Manzoni
+  - I promessi sposi
+  - facsimile alignment
+  - IIIF
+repository-code: "https://github.com/LeggoManzoni/promessi_sposi"
 authors:
   - family-names: Nava
     given-names: Beatrice

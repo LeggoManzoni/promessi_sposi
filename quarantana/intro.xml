@@ -2,12 +2,12 @@
 <div type="introduzione" n="0" xml:id="introduzione">
    <pb n="5" facs="facsimile.xml#surf_0011"/>
    <head facs="facsimile.xml#z_0011_l01">INTRODUZIONE</head>
-   <p type="capolettera"><figure xml:id="intro_11264" facs="facsimile.xml#z_0011_fig2" corresp="https://dlrc.ficlit.unibo.it/api/items/228772"><graphic url="./assets/img/003.jpg"/></figure></p>
    <p>
       <milestone unit="comma" n="1"/>
       <hi rend="italic">
          <lb n="2" facs="facsimile.xml#z_0011_l02"/>
          <figure facs="facsimile.xml#z_0011_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228771" type="intestazione"/>
+         <figure xml:id="intro_11264" facs="facsimile.xml#z_0011_fig2" corresp="https://dlrc.ficlit.unibo.it/api/items/228772" type="capolettera"/>
          <w xml:id="intro_10001">«L'Historia</w>
          <w xml:id="intro_10002">si</w>
          <w xml:id="intro_10003">può</w>
@@ -1455,6 +1455,6 @@
       <w xml:id="intro_11262">d'avanzo.</w>
    </p>
    <p>
-   <figure xml:id="intro_11263" facs="facsimile.xml#z_0014_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228773"><figDesc/><graphic url="./assets/img/004.jpg"/></figure>
+   <figure xml:id="intro_11263" facs="facsimile.xml#z_0014_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228773" type="altre_illustrazioni"><figDesc/></figure>
    </p>
 </div>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <div type="capitolo" n="1" xml:id="capitolo1">
-   <figure xml:id="cap1_16097" facs="facsimile.xml#z_0015_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228774"><graphic url="./assets/img/005.jpg"/></figure>
+   <figure xml:id="cap1_16097" facs="facsimile.xml#z_0015_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228774" type="intestazione"></figure>
    <pb n="9" facs="facsimile.xml#surf_0015"/>
    <head facs="facsimile.xml#z_0015_l01">CAPITOLO I</head>
-   <p type="capolettera"><figure xml:id="c1_16098" facs="facsimile.xml#z_0015_fig2" corresp="https://dlrc.ficlit.unibo.it/api/items/228775"><graphic url="./assets/img/006.jpg"/></figure></p>
    <p>
       <milestone unit="comma" xml:id="c1"/>
       <lb n="2" facs="facsimile.xml#z_0015_l02"/>
+      <figure xml:id="c1_16098" facs="facsimile.xml#z_0015_fig2" corresp="https://dlrc.ficlit.unibo.it/api/items/228775" type="capolettera"/>
       <w xml:id="c1_10001">Quel</w>
       <w xml:id="c1_10002">ramo</w>
       <w xml:id="c1_10003">del</w>
@@ -743,7 +743,7 @@
       <w xml:id="c1_10682">dell'altre</w>
       <w xml:id="c1_10683">vedute.</w>
    </p>
-   <p><figure xml:id="c1_16099" facs="facsimile.xml#z_0017_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228776"><graphic url="./assets/img/007.jpg"/></figure></p>
+   <p><figure xml:id="c1_16099" facs="facsimile.xml#z_0017_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228776" type="altre_illustrazioni"></figure></p>
    <p>
       <milestone unit="comma" n="8"/>
       <lb n="10" facs="facsimile.xml#z_0017_l10"/>
@@ -1427,7 +1427,7 @@
       <w xml:id="c1_11305">contro</w>
       <w xml:id="c1_11306">di</w>
       <w xml:id="c1_11307">essi.</w>
-      <figure xml:id="c1_16100" facs="facsimile.xml#z_0019_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228777"><graphic url="./assets/img/008.jpg"/></figure>
+      <figure xml:id="c1_16100" facs="facsimile.xml#z_0019_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228777" type="altre_illustrazioni"></figure>
       <hi rend="italic">
          <lb n="14" facs="facsimile.xml#z_0019_l14"/>
          <w xml:id="c1_11308">Dichiara</w>
@@ -2603,7 +2603,7 @@
       <w xml:id="c1_12353">gli</w>
       <w xml:id="c1_12354">s'avviavano</w>
       <w xml:id="c1_12355">incontro.</w>
-      <figure xml:id="c1_16101" facs="facsimile.xml#z_0022_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228778"><graphic url="./assets/img/009.jpg"/></figure>
+      <figure xml:id="c1_16101" facs="facsimile.xml#z_0022_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228778" type="altre_illustrazioni"></figure>
       <milestone unit="comma" n="27"/>
       <w xml:id="c1_12356">Egli,</w>
       <w xml:id="c1_12357">tenendosi</w>
@@ -2758,7 +2758,7 @@
       <w xml:id="c1_12496">vide</w>
       <lb n="14" facs="facsimile.xml#z_0023_l14"/>
       <w xml:id="c1_12497">nessuno.</w>
-     <figure xml:id="c1_16102" facs="facsimile.xml#z_0023_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228779"><graphic url="./assets/img/010.jpg"/></figure>
+     <figure xml:id="c1_16102" facs="facsimile.xml#z_0023_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228779" type="altre_illustrazioni"></figure>
       <w xml:id="c1_12498">Diede</w>
       <w xml:id="c1_12499">un'occhiata,</w>
       <w xml:id="c1_12500">al</w>
@@ -3063,7 +3063,7 @@
       <w xml:id="c1_12767">«ma,</w>
       <w xml:id="c1_12768">signori</w>
       <w xml:id="c1_12769">miei,</w>
-      <figure xml:id="c1_16103" facs="facsimile.xml#z_0024_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228780"><graphic url="./assets/img/011.jpg"/></figure>
+      <figure xml:id="c1_16103" facs="facsimile.xml#z_0024_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228780" type="altre_illustrazioni"></figure>
       <lb n="1" facs="facsimile.xml#z_0025_l01"/>
       <pb n="19" facs="facsimile.xml#surf_0025"/>
       <w xml:id="c1_12770">si</w>
@@ -3230,7 +3230,7 @@
       <w xml:id="c1_12913">riverisce</w>
       <w xml:id="c1_12914">caramente.»</w>
    </p>
-   <p><figure xml:id="c1_16104" facs="facsimile.xml#z_0025_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228781"><graphic url="./assets/img/012.jpg"/></figure></p>
+   <p><figure xml:id="c1_16104" facs="facsimile.xml#z_0025_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228781" type="altre_illustrazioni"></figure></p>
    <p>
       <milestone unit="comma" n="35"/>
       <lb n="1" facs="facsimile.xml#z_0026_l01"/>
@@ -4350,7 +4350,7 @@
       <lb n="1" facs="facsimile.xml#z_0029_l01"/>
       <pb n="23" facs="facsimile.xml#surf_0029"/>
       <w xml:id="c1_13928">corporazione.</w>
-      <figure xml:id="c1_16105" facs="facsimile.xml#z_0028_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228782"><graphic url="./assets/img/013.jpg"/></figure>
+      <figure xml:id="c1_16105" facs="facsimile.xml#z_0028_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228782" type="altre_illustrazioni"></figure>
       <milestone unit="comma" n="50"/>
       <w xml:id="c1_13929">Ognuna</w>
       <w xml:id="c1_13930">di</w>
@@ -4978,7 +4978,7 @@
       <w xml:id="c1_14501">gridare</w>
       <w xml:id="c1_14502">a</w>
       <w xml:id="c1_14503">torto.</w>
-      <figure xml:id="c1_16106" facs="facsimile.xml#z_0030_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228783"><graphic url="./assets/img/014.jpg"/></figure>
+      <figure xml:id="c1_16106" facs="facsimile.xml#z_0030_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228783" type="altre_illustrazioni"></figure>
       <milestone unit="comma" n="57"/>
       <w xml:id="c1_14504">Era</w>
       <w xml:id="c1_14505">poi</w>
@@ -5541,7 +5541,7 @@
       <w xml:id="c1_15017">per</w>
       <w xml:id="c1_15018">la</w>
       <w xml:id="c1_15019">strada.</w>
-      <figure xml:id="c1_16107" facs="facsimile.xml#z_0032_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228784"><graphic url="./assets/img/015.jpg"/></figure>
+      <figure xml:id="c1_16107" facs="facsimile.xml#z_0032_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228784" type="altre_illustrazioni"></figure>
       <w xml:id="c1_15020">Gli</w>
       <w xml:id="c1_15021">era</w>
       <w xml:id="c1_15022">occorso</w>
@@ -5875,7 +5875,7 @@
       <w xml:id="c1_15318">sul</w>
       <w xml:id="c1_15319">suo</w>
       <w xml:id="c1_15320">seggiolone.</w>
-      <figure xml:id="c1_16108" facs="facsimile.xml#z_0033_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228785"><graphic url="./assets/img/016.jpg"/></figure>
+      <figure xml:id="c1_16108" facs="facsimile.xml#z_0033_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228785" type="altre_illustrazioni"></figure>
       <lb n="1" facs="facsimile.xml#z_0034_l01"/>
       <pb n="28" facs="facsimile.xml#surf_0034"/>
       <w xml:id="c1_15321">«Come,</w>
@@ -6754,6 +6754,6 @@
       <w xml:id="c1_16094">cielo!»</w>
       <w xml:id="c1_16095">e</w>
       <w xml:id="c1_16096">disparve.</w>
-      <figure xml:id="c1_16109" facs="facsimile.xml#z_0036_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228786"><graphic url="./assets/img/017.jpg"/></figure>
+      <figure xml:id="c1_16109" facs="facsimile.xml#z_0036_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228786" type="altre_illustrazioni"></figure>
    </p>
 </div>

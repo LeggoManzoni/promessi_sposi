@@ -13,7 +13,6 @@ Nazionale), for the reviewed text of *I Promessi Sposi* (chapters 1–38 + intro
 | punctuation | 71 | sentence-mark choice (`;` ↔ `:`) |
 | case | 43 | capitalization |
 | apostrophe | 29 | imperative `va` → `va'`, elisions — a modernization |
-| footnote marker | 24 | Quarantana prints an inline `*` / reference number |
 
 These are regular conventions of the critical edition (grave→acute accents, etc.).
 Below are the **65 substantive word / form / spelling divergences**.

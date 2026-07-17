@@ -1,7 +1,7 @@
 # Validation report
 
 - **Release**: v1.0.0 (release candidate; final Git tag to be recorded at deposit)
-- **Date of validation**: 2026-07-11
+- **Date of validation**: 2026-07-17
 - **Tools**: Python 3.10.12, lxml 5.3.0 (libxml2 RelaxNG validator), TEI P5 `tei_all.rng`
 - **Files checked**: `quarantana/*.xml` (42 files), `dist/promessi-sposi-quarantana.xml`,
   `illustrations_metadata.csv`
@@ -15,11 +15,11 @@
 | `<zone type="line">` | 20,579 |
 | `<zone type="illustration">` | 438 |
 | `<zone type="runningHead">` / `pageNum` / `signature` | 704 / 703 / 72 |
-| `<w>` word tokens | 215,968 |
+| `<w>` word tokens | 215,960 |
 | `<figure>` in the text layer | 438 |
 | `@facs` links: `<lb>` / `<head>` / `<pb>` | 20,540 / 39 / 742 |
 | CSV illustration records | 505 (unique `item_id`) |
-| Unique `xml:id` in the assembled edition | 239,343 |
+| Unique `xml:id` in the assembled edition | 239,335 |
 
 ## Checks performed — all passed (17/17)
 
@@ -49,9 +49,9 @@
    validate against TEI P5 `tei_all.rng` with no deviations. The project
    Schematron rules (`schema/promessi-sposi.sch`) are enforced by checks
    3–6 above, which implement the same assertions.
-9. **IIIF availability** (checked 2026-07-11): the FICLIT IIIF manifest
-   (`…/iiif/2/232045/manifest`), a page `info.json`, and representative
-   line- and illustration-region URLs all return HTTP 200.
+9. **IIIF availability** (checked 2026-07-17): the FICLIT IIIF manifest
+   (`…/iiif/2/232045/manifest`), a page `info.json`, and a representative
+   line-region URL all return HTTP 200.
 
 ## Known, intentional exceptions
 
@@ -74,6 +74,17 @@ endings in particular) were corrected. The checks above verify the
 *internal consistency* of that curated result; they do not re-measure
 geometric accuracy, and bounding boxes remain functional regions rather
 than exact typographic contours.
+
+## Textual corrections since the first validation
+
+Following a three-way collation against the Poggi Salani critical edition
+and the Quarantana 1840 print (FICLIT facsimile), a set of reading errors in
+the TEI text was corrected wherever both witnesses agree against the earlier
+transcription, and two tokenization joins were split. The net effect on the
+counts above is −8 `<w>` tokens (and the corresponding −8 `xml:id` values)
+relative to the 2026-07-11 report. The classified divergences between the
+two source texts are documented in
+`docs/quarantana-poggisalani-collation.md`.
 
 ## Result
 

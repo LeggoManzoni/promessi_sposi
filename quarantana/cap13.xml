@@ -1636,7 +1636,8 @@
       <w xml:id="c13_11466">in</w>
       <w xml:id="c13_11467">prigione</w>
       <w xml:id="c13_11468">il</w>
-      <w xml:id="c13_11469">vicario.»«No,</w>
+      <w xml:id="c13_11469">vicario.»</w>
+      <w xml:id="c13_11469b">«No,</w>
       <w xml:id="c13_11470">no:</w>
       <w xml:id="c13_11471">vogliamo</w>
       <w xml:id="c13_11472">far</w>
@@ -3152,9 +3153,9 @@
       <w xml:id="c13_12839">diceva</w>
       <w xml:id="c13_12840">tra</w>
       <w xml:id="c13_12841">sé:</w>
-      <w xml:id="c13_12842">-</w>
+      <lb n="37" facs="facsimile.xml#z_0267_l37"/>
+      <w xml:id="c13_12842">—</w>
       <foreign rend="italic" xml:lang="es">
-         <lb n="37" facs="facsimile.xml#z_0267_l37"/>
          <w xml:id="c13_12843">por</w>
          <w xml:id="c13_12844">mi</w>
          <w xml:id="c13_12845">vida,</w>
@@ -3162,7 +3163,7 @@
          <w xml:id="c13_12847">de</w>
          <w xml:id="c13_12848">gente!</w>
       </foreign>
-      <w xml:id="c13_12849">-</w>
+      <w xml:id="c13_12849">—</w>
    </p>
    <p>
       <milestone unit="comma" n="38"/>
@@ -3340,7 +3341,7 @@
       <w xml:id="c13_12993">davanti</w>
       <w xml:id="c13_12994">ai</w>
       <w xml:id="c13_12995">cavalli</w>
-      <w xml:id="c13_12996">facevano</w>
+      <w xml:id="c13_12996">facevan</w>
       <w xml:id="c13_12997">ritirar</w>
       <w xml:id="c13_12998">le</w>
       <w xml:id="c13_12999">per<lb n="15" facs="facsimile.xml#z_0268_l15" break="no" rend="hyphen"/>sone,</w>
@@ -3349,7 +3350,7 @@
       <w xml:id="c13_13002">parole,</w>
       <w xml:id="c13_13003">con</w>
       <w xml:id="c13_13004">un</w>
-      <w xml:id="c13_13005">mettere</w>
+      <w xml:id="c13_13005">metter</w>
       <w xml:id="c13_13006">le</w>
       <w xml:id="c13_13007">mani</w>
       <w xml:id="c13_13008">sui</w>
@@ -4774,9 +4775,9 @@
       <w xml:id="c13_14279">intanto</w>
       <w xml:id="c13_14280">tra</w>
       <w xml:id="c13_14281">sé:</w>
-      <w xml:id="c13_14282">-</w>
+      <w xml:id="c13_14282">—</w>
       <foreign rend="italic" xml:lang="es">
-         <w xml:id="c13_14283">acqui</w>
+         <w xml:id="c13_14283">aqui</w>
          <lb n="34" facs="facsimile.xml#z_0272_l34"/>
          <w xml:id="c13_14284">està</w>
          <w xml:id="c13_14285">el</w>
@@ -4785,7 +4786,7 @@
          <w xml:id="c13_14288">nos</w>
          <w xml:id="c13_14289">valga!</w>
       </foreign>
-      <w xml:id="c13_14290">-</w>
+      <w xml:id="c13_14290">—</w>
    </p>
    <p>
       <milestone unit="comma" n="56"/>

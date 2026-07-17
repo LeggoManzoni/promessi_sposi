@@ -15,12 +15,12 @@
       <w xml:id="c38_10006">un</w>
       <w xml:id="c38_10007">le<lb n="3" facs="facsimile.xml#z_0733_l03" break="no" rend="hyphen"/>gno</w>
       <w xml:id="c38_10008">all'uscio.</w>
-      <w xml:id="c38_10009">-</w>
+      <w xml:id="c38_10009">—</w>
       <w xml:id="c38_10010">È</w>
       <w xml:id="c38_10011">lei,</w>
       <w xml:id="c38_10012">di</w>
       <w xml:id="c38_10013">certo!</w>
-      <w xml:id="c38_10014">-</w>
+      <w xml:id="c38_10014">—</w>
       <w xml:id="c38_10015">Era</w>
       <lb n="4" facs="facsimile.xml#z_0733_l04"/>
       <w xml:id="c38_10016">proprio</w>
@@ -1044,12 +1044,12 @@
    </p>
    <p>
       <milestone unit="comma" n="13"/>
-      <w xml:id="c38_10919">-</w>
       <lb n="18" facs="facsimile.xml#z_0736_l18"/>
+      <w xml:id="c38_10919">—</w>
       <w xml:id="c38_10920">Son</w>
       <w xml:id="c38_10921">qui</w>
       <w xml:id="c38_10922">loro,</w>
-      <w xml:id="c38_10923">-</w>
+      <w xml:id="c38_10923">—</w>
       <w xml:id="c38_10924">disse</w>
       <w xml:id="c38_10925">questo</w>
       <w xml:id="c38_10926">tra</w>
@@ -1240,6 +1240,7 @@
       <w xml:id="c38_11096">ogni</w>
       <w xml:id="c38_11097">piaga.</w>
       <milestone unit="comma" n="15"/>
+      <w xml:id="c38_11097b">Se</w>
       <w xml:id="c38_11098">poi</w>
       <w xml:id="c38_11099">si</w>
       <lb n="12" facs="facsimile.xml#z_0737_l12"/>
@@ -2875,7 +2876,7 @@
       <w xml:id="c38_12536">me</w>
       <w xml:id="c38_12537">n'avete</w>
       <w xml:id="c38_12538">fatti</w>
-      <w xml:id="c38_12539">dei</w>
+      <w xml:id="c38_12539">de'</w>
       <w xml:id="c38_12540">tiri.</w>
       <w xml:id="c38_12541">Di</w>
       <w xml:id="c38_12542">te</w>
@@ -4122,10 +4123,10 @@
       <w xml:id="c38_13647">in</w>
       <w xml:id="c38_13648">regola.</w>
       <milestone unit="comma" n="44"/>
-      <w xml:id="c38_13649">-</w>
       <lb n="3" facs="facsimile.xml#z_0745_l03"/>
+      <w xml:id="c38_13649">—</w>
       <w xml:id="c38_13650">Ah!</w>
-      <w xml:id="c38_13651">-</w>
+      <w xml:id="c38_13651">—</w>
       <w xml:id="c38_13652">diceva</w>
       <w xml:id="c38_13653">poi</w>
       <w xml:id="c38_13654">tra</w>
@@ -4135,7 +4136,7 @@
       <w xml:id="c38_13658">tornato</w>
       <w xml:id="c38_13659">a</w>
       <w xml:id="c38_13660">casa:</w>
-      <w xml:id="c38_13661">-</w>
+      <w xml:id="c38_13661">—</w>
       <w xml:id="c38_13662">se</w>
       <lb n="4" facs="facsimile.xml#z_0745_l04"/>
       <w xml:id="c38_13663">la</w>
@@ -4176,7 +4177,7 @@
       <w xml:id="c38_13697">guarire,</w>
       <lb n="7" facs="facsimile.xml#z_0745_l07"/>
       <w xml:id="c38_13698">ve'.</w>
-      <w xml:id="c38_13699">-</w>
+      <w xml:id="c38_13699">—</w>
       <milestone unit="comma" n="45"/>
       <lb n="8" facs="facsimile.xml#z_0745_l08"/>
       <w xml:id="c38_13700">Venne</w>
@@ -4959,7 +4960,7 @@
       <w xml:id="c38_14401">amari</w>
       <w xml:id="c38_14402">in</w>
       <w xml:id="c38_14403">quello</w>
-      <w xml:id="c38_14404">in</w>
+      <w xml:id="c38_14404">a</w>
       <w xml:id="c38_14405">cui</w>
       <w xml:id="c38_14406">voltavan</w>
       <w xml:id="c38_14407">le</w>
@@ -5396,7 +5397,7 @@
       <w xml:id="c38_14796">lungo</w>
       <w xml:id="c38_14797">tra</w>
       <w xml:id="c38_14798">sé.</w>
-      <w xml:id="c38_14799">-</w>
+      <w xml:id="c38_14799">—</w>
       <w xml:id="c38_14800">E</w>
       <w xml:id="c38_14801">cosa</w>
       <w xml:id="c38_14802">v'importa</w>
@@ -5468,7 +5469,7 @@
       <w xml:id="c38_14864">guardate</w>
       <lb n="15" facs="facsimile.xml#z_0749_l15"/>
       <w xml:id="c38_14865">quelle.</w>
-      <w xml:id="c38_14866">-</w>
+      <w xml:id="c38_14866">—</w>
    </p>
    <p>
       <milestone unit="comma" n="57"/>
@@ -6486,13 +6487,6 @@
       <w xml:id="c38_15783">predicare</w>
       <w xml:id="c38_15784">in</w>
       <w xml:id="c38_15785">piazza:</w>
-      <w xml:id="c38_15786">ho</w>
-      <w xml:id="c38_15787">imparato</w>
-      <w xml:id="c38_15788">a</w>
-      <w xml:id="c38_15789">guardar</w>
-      <w xml:id="c38_15790">con</w>
-      <w xml:id="c38_15791">chi</w>
-      <w xml:id="c38_15792">parlo:</w>
       <w xml:id="c38_15793">ho</w>
       <w xml:id="c38_15794">imparato</w>
       <w xml:id="c38_15795">a</w>

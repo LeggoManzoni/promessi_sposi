@@ -3,9 +3,9 @@
 A TEI encoding of Alessandro Manzoni's *I promessi sposi* whose reading text
 is aligned, line by line, to a digital facsimile of the *Quarantana* (the
 illustrated 1840 Milan edition Manzoni himself supervised). The reading text
-is Teresa Poggi Salani's critical edition (2013), whose copy-text is the
-1840 Quarantana edition; the facsimile layer reproduces a physical copy of
-that same edition owned by Paola Italia, digitized by FICLIT/AdLab and
+is Teresa Poggi Salani's critical edition (2013); the facsimile layer
+reproduces a physical copy of the Quarantana owned by Paola Italia,
+digitized by FICLIT/AdLab and
 served over IIIF by the FICLIT Digital Library (Università di
 Bologna). Every line of
 the text is linked to the pixel region of the printed page it corresponds
@@ -87,10 +87,10 @@ illustration on that page.
 ## Textual relationship: not a diplomatic transcription
 
 The reading text is a **critical edition** (Teresa Poggi Salani, 2013) —
-not a diplomatic transcription of the print. Its copy-text is the 1840
-Quarantana **edition**; the facsimile reproduces a **physical copy** of that
-edition (Paola Italia's volume, digitized and served in digital form by
-FICLIT). Text and facsimile therefore belong to the same
+not a diplomatic transcription of the print. The facsimile reproduces a
+**physical copy** of the Quarantana (Paola Italia's volume, digitized and
+served in digital form by FICLIT). Text and facsimile therefore belong to
+the same
 edition-level tradition but are *aligned* rather than transcribed from one
 another: the facsimile layer connects the critical text to the printed page
 line by line, so a reader or downstream tool can see which physical line

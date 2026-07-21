@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <div type="capitolo" n="31" xml:id="capitolo31">
    <pb n="583" facs="facsimile.xml#surf_0589"/>
-   <head facs="facsimile.xml#z_0589_l01">CAPITOLO XXXI</head>
+   <head facs="facsimile.xml#z_0589_l01">CAPITOLO XXXI.</head>
    <p>
       <milestone unit="comma" n="1"/>
       <lb n="2" facs="facsimile.xml#z_0589_l02"/>
@@ -78,7 +78,7 @@
       <w xml:id="c31_10064">quasi</w>
       <lb n="11" facs="facsimile.xml#z_0589_l11"/>
       <w xml:id="c31_10065">esclusivamente:</w>
-      <w xml:id="c31_10066">ché</w>
+      <w xml:id="c31_10066">chè</w>
       <w xml:id="c31_10067">della</w>
       <w xml:id="c31_10068">città</w>
       <w xml:id="c31_10069">quasi</w>
@@ -180,7 +180,7 @@
       <w xml:id="c31_10156">basti</w>
       <lb n="19" facs="facsimile.xml#z_0589_l19"/>
       <w xml:id="c31_10157">da</w>
-      <w xml:id="c31_10158">sé</w>
+      <w xml:id="c31_10158">sè</w>
       <w xml:id="c31_10159">a</w>
       <w xml:id="c31_10160">darne</w>
       <w xml:id="c31_10161">un'idea</w>
@@ -231,7 +231,7 @@
             <w xml:id="c31_10198">fuit</w>
             <w xml:id="c31_10199">anno</w>
             <w xml:id="c31_10200">1630,</w>
-            <w xml:id="c31_10201">libri</w>
+            <w xml:id="c31_10201">Libri</w>
             <w xml:id="c31_10202">V.</w>
             <w xml:id="c31_10203">Mediolani,</w>
             <w xml:id="c31_10204">1640,</w>
@@ -423,7 +423,7 @@
       <w xml:id="c31_10376">quella</w>
       <lb n="17" facs="facsimile.xml#z_0590_l17"/>
       <w xml:id="c31_10377">peste;</w>
-      <w xml:id="c31_10378">sicché</w>
+      <w xml:id="c31_10378">sicchè</w>
       <w xml:id="c31_10379">l'idea</w>
       <w xml:id="c31_10380">che</w>
       <w xml:id="c31_10381">se</w>
@@ -672,7 +672,7 @@
       <w xml:id="c31_10603">per</w>
       <w xml:id="c31_10604">ora</w>
       <w xml:id="c31_10605">e</w>
-      <w xml:id="c31_10606">finché</w>
+      <w xml:id="c31_10606">finchè</w>
       <w xml:id="c31_10607">qualchedun</w>
       <w xml:id="c31_10608">altro</w>
       <lb n="3" facs="facsimile.xml#z_0591_l03"/>
@@ -760,7 +760,7 @@
       <w xml:id="c31_10681">peste</w>
       <w xml:id="c31_10682">che,</w>
       <lb n="11" facs="facsimile.xml#z_0591_l11"/>
-      <w xml:id="c31_10683">cinquantatré</w>
+      <w xml:id="c31_10683">cinquantatrè</w>
       <w xml:id="c31_10684">anni</w>
       <w xml:id="c31_10685">avanti,</w>
       <w xml:id="c31_10686">aveva</w>
@@ -812,7 +812,7 @@
       <lb n="15" facs="facsimile.xml#z_0591_l15"/>
       <w xml:id="c31_10730">d'un</w>
       <w xml:id="c31_10731">uomo,</w>
-      <w xml:id="c31_10732">perché</w>
+      <w xml:id="c31_10732">perchè</w>
       <w xml:id="c31_10733">a</w>
       <w xml:id="c31_10734">quest'uomo</w>
       <w xml:id="c31_10735">ha</w>
@@ -837,7 +837,7 @@
       <w xml:id="c31_10752">tutti</w>
       <w xml:id="c31_10753">que'</w>
       <w xml:id="c31_10754">guai,</w>
-      <w xml:id="c31_10755">perché</w>
+      <w xml:id="c31_10755">perchè</w>
       <w xml:id="c31_10756">in</w>
       <w xml:id="c31_10757">tutti</w>
       <w xml:id="c31_10758">l'ha</w>
@@ -964,7 +964,7 @@
       <note place="bottom">
          <bibl corresp="#ragguaglio">
             <lb n="37" facs="facsimile.xml#z_0591_l37"/>
-            <w xml:id="c31_10866">pag.</w>
+            <w xml:id="c31_10866">Pag.</w>
             <w xml:id="c31_10867">24.</w>
          </bibl>
       </note>
@@ -2331,9 +2331,9 @@
       <w xml:id="c31_12065">si</w>
       <w xml:id="c31_12066">può</w>
       <w xml:id="c31_12067">stare</w>
-      <w xml:id="c31_12068">né</w>
+      <w xml:id="c31_12068">nè</w>
       <w xml:id="c31_12069">all'uno</w>
-      <w xml:id="c31_12070">né</w>
+      <w xml:id="c31_12070">nè</w>
       <w xml:id="c31_12071">all'al<lb n="29" facs="facsimile.xml#z_0595_l29" break="no" rend="hyphen"/>tro.</w>
       <w xml:id="c31_12072">Tutt'e</w>
       <w xml:id="c31_12073">due</w>
@@ -2532,7 +2532,7 @@
       <w xml:id="c31_12244">quarto</w>
       <lb n="7" facs="facsimile.xml#z_0596_l07"/>
       <w xml:id="c31_12245">giorno</w>
-      <w xml:id="c31_12246">morì.</w>
+      <w xml:id="c31_12246">mori.</w>
    </p>
    <p>
       <milestone unit="comma" n="28"/>
@@ -2667,7 +2667,7 @@
       <w xml:id="c31_12363">sonator</w>
       <w xml:id="c31_12364">di</w>
       <w xml:id="c31_12365">liuto.</w>
-      <w xml:id="c31_12366">allora</w>
+      <w xml:id="c31_12366">Allora</w>
       <w xml:id="c31_12367">tutti</w>
       <lb n="18" facs="facsimile.xml#z_0596_l18"/>
       <w xml:id="c31_12368">i</w>
@@ -2825,7 +2825,7 @@
       <w xml:id="c31_12504">ci</w>
       <w xml:id="c31_12505">fosse</w>
       <w xml:id="c31_12506">peste,</w>
-      <w xml:id="c31_12507">né</w>
+      <w xml:id="c31_12507">nè</w>
       <w xml:id="c31_12508">ci</w>
       <w xml:id="c31_12509">fosse</w>
       <w xml:id="c31_12510">stata</w>
@@ -2911,7 +2911,7 @@
       <w xml:id="c31_12581">più</w>
       <w xml:id="c31_12582">e</w>
       <w xml:id="c31_12583">incerti.</w>
-      <w xml:id="c31_12584">il</w>
+      <w xml:id="c31_12584">Il</w>
       <w xml:id="c31_12585">terrore</w>
       <w xml:id="c31_12586">della</w>
       <w xml:id="c31_12587">contumacia</w>
@@ -3111,6 +3111,7 @@
       <w xml:id="c31_12758">dove</w>
       <w xml:id="c31_12759">cercavano</w>
       <w xml:id="c31_12760">aiuti,</w>
+      <w xml:id="c31_12760_b">volontà,</w>
       <w xml:id="c31_12761">e</w>
       <w xml:id="c31_12762">d'essere</w>
       <w xml:id="c31_12763">in<lb n="35" facs="facsimile.xml#z_0597_l35" break="no" rend="hyphen"/>sieme</w>
@@ -3397,7 +3398,7 @@
       <w xml:id="c31_13010">pubblico;</w>
       <w xml:id="c31_13011">ma</w>
       <w xml:id="c31_13012">non</w>
-      <w xml:id="c31_13013">poté</w>
+      <w xml:id="c31_13013">potè</w>
       <w xml:id="c31_13014">salvarlo</w>
       <w xml:id="c31_13015">dall'animosità</w>
       <w xml:id="c31_13016">e</w>
@@ -3549,7 +3550,7 @@
       <w xml:id="c31_13149">povera</w>
       <w xml:id="c31_13150">infe<lb n="15" facs="facsimile.xml#z_0599_l15" break="no" rend="hyphen"/>lice</w>
       <w xml:id="c31_13151">sventurata,</w>
-      <w xml:id="c31_13152">perché</w>
+      <w xml:id="c31_13152">perchè</w>
       <w xml:id="c31_13153">il</w>
       <w xml:id="c31_13154">suo</w>
       <w xml:id="c31_13155">padrone</w>
@@ -3583,7 +3584,7 @@
             <w xml:id="c31_13179">Verri;</w>
             <w xml:id="c31_13180">Milano,</w>
             <w xml:id="c31_13181">1825,</w>
-            <w xml:id="c31_13182">tom.</w>
+            <w xml:id="c31_13182">Tom.</w>
             <w xml:id="c31_13183">4,</w>
             <w xml:id="c31_13184">pag.</w>
             <w xml:id="c31_13185">155.</w>
@@ -3746,7 +3747,7 @@
       <w xml:id="c31_13323">faceva</w>
       <w xml:id="c31_13324">gran</w>
       <w xml:id="c31_13325">danno;</w>
-      <w xml:id="c31_13326">perché,</w>
+      <w xml:id="c31_13326">perchè,</w>
       <w xml:id="c31_13327">figurando</w>
       <lb n="14" facs="facsimile.xml#z_0600_l14"/>
       <w xml:id="c31_13328">di</w>
@@ -3898,7 +3899,7 @@
       <w xml:id="c31_13462">istanza</w>
       <w xml:id="c31_13463">il</w>
       <w xml:id="c31_13464">senato,</w>
-      <w xml:id="c31_13465">per<lb n="26" facs="facsimile.xml#z_0600_l26" break="no" rend="hyphen"/>ché</w>
+      <w xml:id="c31_13465">per<lb n="26" facs="facsimile.xml#z_0600_l26" break="no" rend="hyphen"/>chè</w>
       <w xml:id="c31_13466">pensassero</w>
       <w xml:id="c31_13467">alla</w>
       <w xml:id="c31_13468">maniera</w>
@@ -3921,7 +3922,7 @@
       <lb n="28" facs="facsimile.xml#z_0600_l28"/>
       <w xml:id="c31_13485">altri</w>
       <w xml:id="c31_13486">paesi;</w>
-      <w xml:id="c31_13487">perché</w>
+      <w xml:id="c31_13487">perchè</w>
       <w xml:id="c31_13488">trovassero</w>
       <w xml:id="c31_13489">il</w>
       <w xml:id="c31_13490">mezzo</w>
@@ -4041,7 +4042,7 @@
       <w xml:id="c31_13592">tribunale</w>
       <w xml:id="c31_13593">della</w>
       <w xml:id="c31_13594">sanità:</w>
-      <w xml:id="c31_13595">ché,</w>
+      <w xml:id="c31_13595">chè,</w>
       <w xml:id="c31_13596">fin</w>
       <lb n="1" facs="facsimile.xml#z_0601_l01"/>
       <pb n="595" facs="facsimile.xml#surf_0601"/>
@@ -4417,7 +4418,7 @@
       <w xml:id="c31_13940">altro</w>
       <w xml:id="c31_13941">che</w>
       <w xml:id="c31_13942">cederlo,</w>
-      <w xml:id="c31_13943">né</w>
+      <w xml:id="c31_13943">nè</w>
       <w xml:id="c31_13944">trovassero</w>
       <w xml:id="c31_13945">a</w>
       <w xml:id="c31_13946">chi</w>
@@ -4514,7 +4515,7 @@
       <w xml:id="c31_14030">loro</w>
       <w xml:id="c31_14031">offerto,</w>
       <w xml:id="c31_14032">solo</w>
-      <w xml:id="c31_14033">perché</w>
+      <w xml:id="c31_14033">perchè</w>
       <w xml:id="c31_14034">era</w>
       <w xml:id="c31_14035">difficile</w>
       <w xml:id="c31_14036">e</w>
@@ -4602,7 +4603,7 @@
          <w xml:id="c31_14111">se</w>
          <w xml:id="c31_14112">questi</w>
          <lb n="27" facs="facsimile.xml#z_0602_l27"/>
-         <w xml:id="c31_14113">padri</w>
+         <w xml:id="c31_14113">Padri</w>
          <w xml:id="c31_14114">iui</w>
          <w xml:id="c31_14115">non</w>
          <w xml:id="c31_14116">si</w>
@@ -4622,14 +4623,14 @@
          <w xml:id="c31_14127">annichilata</w>
          <w xml:id="c31_14128">si</w>
          <w xml:id="c31_14129">trouaua;</w>
-         <w xml:id="c31_14130">puoiché</w>
+         <w xml:id="c31_14130">puoichè</w>
          <w xml:id="c31_14131">fu</w>
          <w xml:id="c31_14132">cosa</w>
          <w xml:id="c31_14133">miracolosa</w>
          <w xml:id="c31_14134">l'hauer</w>
          <lb n="29" facs="facsimile.xml#z_0602_l29"/>
          <w xml:id="c31_14135">questi</w>
-         <w xml:id="c31_14136">padri</w>
+         <w xml:id="c31_14136">Padri</w>
          <w xml:id="c31_14137">fatto</w>
          <w xml:id="c31_14138">in</w>
          <w xml:id="c31_14139">così</w>
@@ -4663,7 +4664,7 @@
          <w xml:id="c31_14165">haueuano</w>
          <w xml:id="c31_14166">mante<lb n="32" facs="facsimile.xml#z_0602_l32" break="no" rend="hyphen"/>nuto</w>
          <w xml:id="c31_14167">nel</w>
-         <w xml:id="c31_14168">lazeretto</w>
+         <w xml:id="c31_14168">Lazeretto</w>
          <w xml:id="c31_14169">tante</w>
          <w xml:id="c31_14170">migliaia</w>
          <w xml:id="c31_14171">de</w>
@@ -5154,7 +5155,7 @@
       <w xml:id="c31_14605">tribunale</w>
       <w xml:id="c31_14606">della</w>
       <w xml:id="c31_14607">sanità;</w>
-      <w xml:id="c31_14608">né,</w>
+      <w xml:id="c31_14608">nè,</w>
       <w xml:id="c31_14609">per</w>
       <w xml:id="c31_14610">allora,</w>
       <w xml:id="c31_14611">pare</w>
@@ -5177,7 +5178,7 @@
       <w xml:id="c31_14627">nelle</w>
       <w xml:id="c31_14628">menti</w>
       <w xml:id="c31_14629">quell'avviso</w>
-      <w xml:id="c31_14630">poté</w>
+      <w xml:id="c31_14630">potè</w>
       <w xml:id="c31_14631">servir</w>
       <w xml:id="c31_14632">di</w>
       <w xml:id="c31_14633">conferma</w>
@@ -5187,7 +5188,7 @@
       <w xml:id="c31_14637">d'una</w>
       <w xml:id="c31_14638">frode</w>
       <w xml:id="c31_14639">scellerata;</w>
-      <w xml:id="c31_14640">poté</w>
+      <w xml:id="c31_14640">potè</w>
       <w xml:id="c31_14641">anche</w>
       <w xml:id="c31_14642">essere</w>
       <w xml:id="c31_14643">la</w>
@@ -5407,7 +5408,7 @@
       <w xml:id="c31_14834">corde</w>
       <w xml:id="c31_14835">delle</w>
       <w xml:id="c31_14836">campane.</w>
-      <w xml:id="c31_14837">Né</w>
+      <w xml:id="c31_14837">Nè</w>
       <w xml:id="c31_14838">si</w>
       <w xml:id="c31_14839">disse</w>
       <w xml:id="c31_14840">soltanto</w>
@@ -5493,7 +5494,7 @@
       <w xml:id="c31_14913">più</w>
       <w xml:id="c31_14914">significante</w>
       <w xml:id="c31_14915">spet<lb n="11" facs="facsimile.xml#z_0605_l11" break="no" rend="hyphen"/>tacolo</w>
-      <w xml:id="c31_14916">colpì</w>
+      <w xml:id="c31_14916">colpi</w>
       <w xml:id="c31_14917">gli</w>
       <w xml:id="c31_14918">occhi</w>
       <w xml:id="c31_14919">e</w>
@@ -5596,10 +5597,10 @@
       <w xml:id="c31_15011">non</w>
       <w xml:id="c31_15012">sarebbe</w>
       <w xml:id="c31_15013">stato,</w>
-      <w xml:id="c31_15014">né</w>
+      <w xml:id="c31_15014">nè</w>
       <w xml:id="c31_15015">il</w>
       <w xml:id="c31_15016">primo</w>
-      <w xml:id="c31_15017">né</w>
+      <w xml:id="c31_15017">nè</w>
       <w xml:id="c31_15018">l'ultimo</w>
       <w xml:id="c31_15019">di</w>
       <w xml:id="c31_15020">tal</w>
@@ -5827,7 +5828,7 @@
       <w xml:id="c31_15214">d'un</w>
       <w xml:id="c31_15215">celebre</w>
       <w xml:id="c31_15216">delirio;</w>
-      <w xml:id="c31_15217">perché,</w>
+      <w xml:id="c31_15217">perchè,</w>
       <w xml:id="c31_15218">negli</w>
       <w xml:id="c31_15219">errori</w>
       <w xml:id="c31_15220">e</w>
@@ -6273,7 +6274,7 @@
       <w xml:id="c31_15616">ci</w>
       <w xml:id="c31_15617">fosse.</w>
       <w xml:id="c31_15618">E</w>
-      <w xml:id="c31_15619">perché,</w>
+      <w xml:id="c31_15619">perchè,</w>
       <w xml:id="c31_15620">tanto</w>
       <w xml:id="c31_15621">nel</w>
       <w xml:id="c31_15622">lazzeretto,</w>
@@ -6318,7 +6319,7 @@
          <lb n="19" facs="facsimile.xml#z_0607_l19"/>
          <w xml:id="c31_15657">vera</w>
          <w xml:id="c31_15658">peste,</w>
-         <w xml:id="c31_15659">perché</w>
+         <w xml:id="c31_15659">perchè</w>
          <w xml:id="c31_15660">tutti</w>
          <w xml:id="c31_15661">sarebbero</w>
          <w xml:id="c31_15662">morti.»</w>
@@ -6366,7 +6367,7 @@
       <w xml:id="c31_15696">delle</w>
       <w xml:id="c31_15697">feste</w>
       <w xml:id="c31_15698">della</w>
-      <w xml:id="c31_15699">pentecoste,</w>
+      <w xml:id="c31_15699">Pentecoste,</w>
       <w xml:id="c31_15700">usavano</w>
       <w xml:id="c31_15701">i</w>
       <w xml:id="c31_15702">cit<lb n="23" facs="facsimile.xml#z_0607_l23" break="no" rend="hyphen"/>tadini</w>
@@ -6375,11 +6376,11 @@
       <w xml:id="c31_15705">al</w>
       <w xml:id="c31_15706">cimitero</w>
       <w xml:id="c31_15707">di</w>
-      <w xml:id="c31_15708">San</w>
+      <w xml:id="c31_15708">san</w>
       <w xml:id="c31_15709">Gregorio,</w>
       <w xml:id="c31_15710">fuori</w>
       <w xml:id="c31_15711">di</w>
-      <w xml:id="c31_15712">porta</w>
+      <w xml:id="c31_15712">Porta</w>
       <w xml:id="c31_15713">orien<lb n="24" facs="facsimile.xml#z_0607_l24" break="no" rend="hyphen"/>tale,</w>
       <w xml:id="c31_15714">a</w>
       <w xml:id="c31_15715">pregar</w>
@@ -6459,7 +6460,7 @@
       <w xml:id="c31_15783">un</w>
       <w xml:id="c31_15784">carro,</w>
       <w xml:id="c31_15785">ignudi,</w>
-      <w xml:id="c31_15786">affinché</w>
+      <w xml:id="c31_15786">affinchè</w>
       <w xml:id="c31_15787">la</w>
       <w xml:id="c31_15788">folla</w>
       <w xml:id="c31_15789">potesse</w>
@@ -6510,7 +6511,7 @@
       <w xml:id="c31_15833">fede</w>
       <lb n="35" facs="facsimile.xml#z_0607_l35"/>
       <w xml:id="c31_15834">da</w>
-      <w xml:id="c31_15835">sé,</w>
+      <w xml:id="c31_15835">sè,</w>
       <w xml:id="c31_15836">ogni</w>
       <w xml:id="c31_15837">giorno</w>
       <w xml:id="c31_15838">più;</w>
@@ -6519,7 +6520,7 @@
       <w xml:id="c31_15841">riunione</w>
       <w xml:id="c31_15842">medesima</w>
       <w xml:id="c31_15843">non</w>
-      <w xml:id="c31_15844">dové</w>
+      <w xml:id="c31_15844">dovè</w>
       <w xml:id="c31_15845">servir</w>
       <lb n="36" facs="facsimile.xml#z_0607_l36"/>
       <w xml:id="c31_15846">poco</w>

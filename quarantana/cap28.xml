@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <div type="capitolo" n="28" xml:id="capitolo28">
    <pb n="527" facs="facsimile.xml#surf_0533"/>
-   <head facs="facsimile.xml#z_0533_l01">CAPITOLO XXVIII</head>
+   <head facs="facsimile.xml#z_0533_l01">CAPITOLO XXVIII.</head>
    <p>
       <milestone unit="comma" n="1"/>
       <lb n="2" facs="facsimile.xml#z_0533_l02"/>
@@ -222,7 +222,7 @@
       <w xml:id="c28_10197">era</w>
       <w xml:id="c28_10198">per</w>
       <lb n="6" facs="facsimile.xml#z_0534_l06"/>
-      <w xml:id="c28_10199">sé,</w>
+      <w xml:id="c28_10199">sè,</w>
       <w xml:id="c28_10200">ma</w>
       <w xml:id="c28_10201">sempre</w>
       <w xml:id="c28_10202">più</w>
@@ -265,9 +265,9 @@
       <w xml:id="c28_10237">proibito</w>
       <w xml:id="c28_10238">di</w>
       <w xml:id="c28_10239">comprarne</w>
-      <w xml:id="c28_10240">né</w>
+      <w xml:id="c28_10240">nè</w>
       <w xml:id="c28_10241">punto</w>
-      <w xml:id="c28_10242">né</w>
+      <w xml:id="c28_10242">nè</w>
       <lb n="10" facs="facsimile.xml#z_0534_l10"/>
       <w xml:id="c28_10243">poco,</w>
       <w xml:id="c28_10244">e</w>
@@ -834,7 +834,7 @@
       <w xml:id="c28_10747">non</w>
       <w xml:id="c28_10748">si</w>
       <w xml:id="c28_10749">vede</w>
-      <w xml:id="c28_10750">perché</w>
+      <w xml:id="c28_10750">perchè</w>
       <w xml:id="c28_10751">così</w>
       <w xml:id="c28_10752">tardi),</w>
       <w xml:id="c28_10753">pubblicò</w>
@@ -1140,7 +1140,7 @@
       <w xml:id="c28_11029">e</w>
       <w xml:id="c28_11030">ciò</w>
       <w xml:id="c28_11031">principalmente</w>
-      <w xml:id="c28_11032">perché</w>
+      <w xml:id="c28_11032">perchè</w>
       <w xml:id="c28_11033">la</w>
       <w xml:id="c28_11034">gran</w>
       <lb n="7" facs="facsimile.xml#z_0536_l07"/>
@@ -1154,7 +1154,7 @@
       <w xml:id="c28_11042">erano</w>
       <w xml:id="c28_11043">arrivate,</w>
       <lb n="8" facs="facsimile.xml#z_0536_l08"/>
-      <w xml:id="c28_11044">poté</w>
+      <w xml:id="c28_11044">potè</w>
       <w xml:id="c28_11045">far</w>
       <w xml:id="c28_11046">prevalere</w>
       <w xml:id="c28_11047">a</w>
@@ -1401,7 +1401,7 @@
       <w xml:id="c28_11264">corso.</w>
       <milestone unit="comma" n="14"/>
       <w xml:id="c28_11265">Troviamo</w>
-      <w xml:id="c28_11266">bensì</w>
+      <w xml:id="c28_11266">bensi</w>
       <w xml:id="c28_11267">nelle</w>
       <w xml:id="c28_11268">relazioni</w>
       <w xml:id="c28_11269">di</w>
@@ -2189,7 +2189,7 @@
       <w xml:id="c28_11986">e</w>
       <w xml:id="c28_11987">d'attirare</w>
       <w xml:id="c28_11988">a</w>
-      <w xml:id="c28_11989">sé</w>
+      <w xml:id="c28_11989">sè</w>
       <w xml:id="c28_11990">gli</w>
       <w xml:id="c28_11991">sguardi</w>
       <w xml:id="c28_11992">e</w>
@@ -2694,7 +2694,7 @@
       <milestone unit="comma" n="28"/>
       <lb n="9" facs="facsimile.xml#z_0541_l09"/>
       <figure facs="facsimile.xml#z_0541_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/229087" type="altre_illustrazioni"/>
-      <w xml:id="c28_12446">Né</w>
+      <w xml:id="c28_12446">Nè</w>
       <w xml:id="c28_12447">qui</w>
       <w xml:id="c28_12448">finiva</w>
       <w xml:id="c28_12449">la</w>
@@ -2742,7 +2742,7 @@
       <w xml:id="c28_12488">di</w>
       <w xml:id="c28_12489">danaro,</w>
       <lb n="13" facs="facsimile.xml#z_0541_l13"/>
-      <w xml:id="c28_12490">affinché</w>
+      <w xml:id="c28_12490">affinchè</w>
       <w xml:id="c28_12491">il</w>
       <w xml:id="c28_12492">bisogno</w>
       <w xml:id="c28_12493">rinascente</w>
@@ -2832,7 +2832,7 @@
       <w xml:id="c28_12572">nota</w>
       <w xml:id="c28_12573">ai</w>
       <w xml:id="c28_12574">parrochi,</w>
-      <w xml:id="c28_12575">acciocché</w>
+      <w xml:id="c28_12575">acciocchè</w>
       <w xml:id="c28_12576">li</w>
       <w xml:id="c28_12577">vi<lb n="2" facs="facsimile.xml#z_0542_l02" break="no" rend="hyphen"/>sitassero;</w>
       <w xml:id="c28_12578">e</w>
@@ -2863,7 +2863,7 @@
       <w xml:id="c28_12598">estremità</w>
       <w xml:id="c28_12599">di</w>
       <w xml:id="c28_12600">patimenti,</w>
-      <w xml:id="c28_12601">né</w>
+      <w xml:id="c28_12601">nè</w>
       <w xml:id="c28_12602">l'aveva</w>
       <w xml:id="c28_12603">aspettata</w>
       <w xml:id="c28_12604">per</w>
@@ -3142,7 +3142,7 @@
       <lb n="25" facs="facsimile.xml#z_0542_l25"/>
       <w xml:id="c28_12836">suoi</w>
       <w xml:id="c28_12837">mezzi</w>
-      <w xml:id="c28_12838">(giacché</w>
+      <w xml:id="c28_12838">(giacchè</w>
       <w xml:id="c28_12839">Federigo</w>
       <w xml:id="c28_12840">ricusava,</w>
       <w xml:id="c28_12841">per</w>
@@ -3497,7 +3497,7 @@
       <w xml:id="c28_13155">fatti</w>
       <w xml:id="c28_13156">sentire.</w>
       <milestone unit="comma" n="37"/>
-      <w xml:id="c28_13157">Né</w>
+      <w xml:id="c28_13157">Nè</w>
       <w xml:id="c28_13158">si</w>
       <w xml:id="c28_13159">può</w>
       <w xml:id="c28_13160">pensare</w>
@@ -3968,7 +3968,7 @@
       <w xml:id="c28_13579">gretto;</w>
       <lb n="6" facs="facsimile.xml#z_0545_l06"/>
       <w xml:id="c28_13580">alcuni,</w>
-      <w xml:id="c28_13581">perché</w>
+      <w xml:id="c28_13581">perchè</w>
       <w xml:id="c28_13582">le</w>
       <w xml:id="c28_13583">cagioni</w>
       <w xml:id="c28_13584">comuni</w>
@@ -4377,10 +4377,10 @@
       <w xml:id="c28_13951">non</w>
       <w xml:id="c28_13952">lo</w>
       <w xml:id="c28_13953">conoscesse,</w>
-      <w xml:id="c28_13954">né</w>
+      <w xml:id="c28_13954">nè</w>
       <w xml:id="c28_13955">di</w>
       <w xml:id="c28_13956">vista</w>
-      <w xml:id="c28_13957">né</w>
+      <w xml:id="c28_13957">nè</w>
       <w xml:id="c28_13958">per</w>
       <w xml:id="c28_13959">de<lb n="3" facs="facsimile.xml#z_0546_l03" break="no" rend="hyphen"/>scrizione)</w>
       <w xml:id="c28_13960">è</w>
@@ -4736,7 +4736,7 @@
       <w xml:id="c28_14277">quantità</w>
       <w xml:id="c28_14278">che</w>
       <w xml:id="c28_14279">si</w>
-      <w xml:id="c28_14280">poté;</w>
+      <w xml:id="c28_14280">potè;</w>
       <w xml:id="c28_14281">e</w>
       <w xml:id="c28_14282">s'invitarono,</w>
       <w xml:id="c28_14283">con</w>
@@ -4917,7 +4917,7 @@
       <w xml:id="c28_14444">Visto</w>
       <w xml:id="c28_14445">ciò,</w>
       <w xml:id="c28_14446">si</w>
-      <w xml:id="c28_14447">credé</w>
+      <w xml:id="c28_14447">credè</w>
       <lb n="35" facs="facsimile.xml#z_0547_l35"/>
       <w xml:id="c28_14448">bene</w>
       <w xml:id="c28_14449">di</w>
@@ -5051,7 +5051,7 @@
       <w xml:id="c28_14563">in</w>
       <w xml:id="c28_14564">quartieri</w>
       <w xml:id="c28_14565">separati,</w>
-      <w xml:id="c28_14566">benché</w>
+      <w xml:id="c28_14566">benchè</w>
       <w xml:id="c28_14567">le</w>
       <w xml:id="c28_14568">memorie</w>
       <w xml:id="c28_14569">del</w>
@@ -5215,7 +5215,7 @@
       <w xml:id="c28_14712">sulla</w>
       <w xml:id="c28_14713">nuda</w>
       <w xml:id="c28_14714">terra:</w>
-      <w xml:id="c28_14715">perché,</w>
+      <w xml:id="c28_14715">perchè,</w>
       <w xml:id="c28_14716">s'era</w>
       <w xml:id="c28_14717">bensì</w>
       <w xml:id="c28_14718">ordinato</w>
@@ -5256,7 +5256,7 @@
       <w xml:id="c28_14748">di</w>
       <w xml:id="c28_14749">buona</w>
       <w xml:id="c28_14750">qualità:</w>
-      <w xml:id="c28_14751">giacché,</w>
+      <w xml:id="c28_14751">giacchè,</w>
       <w xml:id="c28_14752">quale</w>
       <w xml:id="c28_14753">ammini<lb n="2" facs="facsimile.xml#z_0549_l02" break="no" rend="hyphen"/>stratore</w>
       <w xml:id="c28_14754">ha</w>
@@ -5795,7 +5795,7 @@
       <w xml:id="c28_15242">Si</w>
       <w xml:id="c28_15243">discusse,</w>
       <w xml:id="c28_15244">si</w>
-      <w xml:id="c28_15245">sentì</w>
+      <w xml:id="c28_15245">senti</w>
       <w xml:id="c28_15246">il</w>
       <w xml:id="c28_15247">parere</w>
       <w xml:id="c28_15248">della</w>
@@ -6642,7 +6642,7 @@
       <w xml:id="c28_15991">quale</w>
       <w xml:id="c28_15992">infatti</w>
       <w xml:id="c28_15993">non</w>
-      <w xml:id="c28_15994">poté</w>
+      <w xml:id="c28_15994">potè</w>
       <w xml:id="c28_15995">non</w>
       <w xml:id="c28_15996">occuparsi</w>
       <w xml:id="c28_15997">di</w>
@@ -6836,7 +6836,7 @@
       <w xml:id="c28_16160">di</w>
       <w xml:id="c28_16161">quel</w>
       <w xml:id="c28_16162">tempo:</w>
-      <w xml:id="c28_16163">ché</w>
+      <w xml:id="c28_16163">chè</w>
       <w xml:id="c28_16164">di</w>
       <w xml:id="c28_16165">certo,</w>
       <w xml:id="c28_16166">da</w>
@@ -6875,7 +6875,7 @@
       <w xml:id="c28_16193">In</w>
       <w xml:id="c28_16194">quanto</w>
       <w xml:id="c28_16195">a</w>
-      <w xml:id="c28_16196">Don</w>
+      <w xml:id="c28_16196">don</w>
       <w xml:id="c28_16197">Gonzalo,</w>
       <w xml:id="c28_16198">poco</w>
       <w xml:id="c28_16199">dopo</w>
@@ -6951,7 +6951,7 @@
       <w xml:id="c28_16265">più</w>
       <w xml:id="c28_16266">avanti,</w>
       <lb n="20" facs="facsimile.xml#z_0553_l20"/>
-      <w xml:id="c28_16267">fuorché</w>
+      <w xml:id="c28_16267">fuorchè</w>
       <w xml:id="c28_16268">il</w>
       <w xml:id="c28_16269">tribunale</w>
       <w xml:id="c28_16270">della</w>
@@ -7152,7 +7152,7 @@
       <w xml:id="c28_16451">la</w>
       <w xml:id="c28_16452">moltitudine,</w>
       <w xml:id="c28_16453">o</w>
-      <w xml:id="c28_16454">perché</w>
+      <w xml:id="c28_16454">perchè</w>
       <w xml:id="c28_16455">fosse</w>
       <w xml:id="c28_16456">in</w>
       <w xml:id="c28_16457">effetto</w>
@@ -7403,7 +7403,7 @@
       <w xml:id="c28_16673">non</w>
       <w xml:id="c28_16674">ce</w>
       <w xml:id="c28_16675">n'era;</w>
-      <w xml:id="c28_16676">né</w>
+      <w xml:id="c28_16676">nè</w>
       <lb n="19" facs="facsimile.xml#z_0554_l19"/>
       <w xml:id="c28_16677">avrebbe</w>
       <w xml:id="c28_16678">potuto</w>
@@ -7422,7 +7422,7 @@
       <w xml:id="c28_16691">poi</w>
       <w xml:id="c28_16692">in</w>
       <w xml:id="c28_16693">particolare,</w>
-      <w xml:id="c28_16694">né</w>
+      <w xml:id="c28_16694">nè</w>
       <w xml:id="c28_16695">erano</w>
       <w xml:id="c28_16696">molto</w>
       <lb n="21" facs="facsimile.xml#z_0554_l21"/>
@@ -7431,7 +7431,7 @@
       <w xml:id="c28_16699">fatto</w>
       <w xml:id="c28_16700">di</w>
       <w xml:id="c28_16701">disciplina,</w>
-      <w xml:id="c28_16702">né,</w>
+      <w xml:id="c28_16702">nè,</w>
       <w xml:id="c28_16703">anche</w>
       <w xml:id="c28_16704">volendo,</w>
       <w xml:id="c28_16705">si</w>
@@ -7446,7 +7446,7 @@
       <w xml:id="c28_16713">e</w>
       <w xml:id="c28_16714">a</w>
       <w xml:id="c28_16715">mantenerla;</w>
-      <w xml:id="c28_16716">ché</w>
+      <w xml:id="c28_16716">chè</w>
       <w xml:id="c28_16717">soldati</w>
       <w xml:id="c28_16718">di</w>
       <lb n="23" facs="facsimile.xml#z_0554_l23"/>
@@ -7616,7 +7616,7 @@
       <w xml:id="c28_16870">guerre,</w>
       <w xml:id="c28_16871">e</w>
       <w xml:id="c28_16872">per</w>
-      <w xml:id="c28_16873">sé</w>
+      <w xml:id="c28_16873">sè</w>
       <w xml:id="c28_16874">e</w>
       <w xml:id="c28_16875">per</w>
       <w xml:id="c28_16876">i</w>
@@ -7803,7 +7803,7 @@
       <w xml:id="c28_17039">nasco<lb n="28" facs="facsimile.xml#z_0555_l28" break="no" rend="hyphen"/>ste,</w>
       <w xml:id="c28_17040">sotterrate;</w>
       <w xml:id="c28_17041">altri</w>
-      <w xml:id="c28_17042">perché</w>
+      <w xml:id="c28_17042">perchè</w>
       <w xml:id="c28_17043">non</w>
       <w xml:id="c28_17044">avevan</w>
       <w xml:id="c28_17045">nulla</w>
@@ -8085,7 +8085,7 @@
       <w xml:id="c28_17297">per</w>
       <w xml:id="c28_17298">venti</w>
       <w xml:id="c28_17299">giorni:</w>
-      <w xml:id="c28_17300">ché</w>
+      <w xml:id="c28_17300">chè</w>
       <w xml:id="c28_17301">in</w>
       <w xml:id="c28_17302">tante</w>
       <w xml:id="c28_17303">squadre</w>

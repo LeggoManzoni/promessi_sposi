@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <div type="capitolo" n="16" xml:id="capitolo16">
    <pb n="308" facs="facsimile.xml#surf_0314"/>
-   <head facs="facsimile.xml#z_0314_l01">CAPITOLO XVI</head>
+   <head facs="facsimile.xml#z_0314_l01">CAPITOLO XVI.</head>
    <p>
       <milestone unit="comma" n="1"/>
       <lb n="2" facs="facsimile.xml#z_0314_l02"/>
@@ -93,7 +93,7 @@
       <w xml:id="c16_10075">ducato.</w>
       <milestone unit="comma" n="2"/>
       <w xml:id="c16_10076">—</w>
-      <w xml:id="c16_10077">Perché,</w>
+      <w xml:id="c16_10077">Perchè,</w>
       <w xml:id="c16_10078">—</w>
       <w xml:id="c16_10079">aveva</w>
       <w xml:id="c16_10080">pensato,</w>
@@ -145,7 +145,7 @@
       <w xml:id="c16_10123">alle</w>
       <w xml:id="c16_10124">spalle.</w>
       <w xml:id="c16_10125">—</w>
-      <w xml:id="c16_10126">Perché,</w>
+      <w xml:id="c16_10126">Perchè,</w>
       <w xml:id="c16_10127">se</w>
       <w xml:id="c16_10128">posso</w>
       <w xml:id="c16_10129">essere</w>
@@ -337,9 +337,9 @@
       <w xml:id="c16_10303">sapesse</w>
       <w xml:id="c16_10304">chi</w>
       <w xml:id="c16_10305">era,</w>
-      <w xml:id="c16_10306">né</w>
+      <w xml:id="c16_10306">nè</w>
       <w xml:id="c16_10307">il</w>
-      <w xml:id="c16_10308">perché</w>
+      <w xml:id="c16_10308">perchè</w>
       <w xml:id="c16_10309">la</w>
       <w xml:id="c16_10310">domandasse.</w>
       <milestone unit="comma" n="5"/>
@@ -433,7 +433,7 @@
       <w xml:id="c16_10392">domanda</w>
       <lb n="14" facs="facsimile.xml#z_0315_l14"/>
       <w xml:id="c16_10393">per</w>
-      <w xml:id="c16_10394">sé</w>
+      <w xml:id="c16_10394">sè</w>
       <w xml:id="c16_10395">era</w>
       <w xml:id="c16_10396">sospetta;</w>
       <w xml:id="c16_10397">il</w>
@@ -681,7 +681,7 @@
       <w xml:id="c16_10621">sentendolo</w>
       <w xml:id="c16_10622">parlar</w>
       <w xml:id="c16_10623">da</w>
-      <w xml:id="c16_10624">sé,</w>
+      <w xml:id="c16_10624">sè,</w>
       <w xml:id="c16_10625">giudicò</w>
       <w xml:id="c16_10626">che</w>
       <lb n="11" facs="facsimile.xml#z_0316_l11"/>
@@ -790,7 +790,7 @@
       <w xml:id="c16_10713">domanda,</w>
       <w xml:id="c16_10714">disse</w>
       <w xml:id="c16_10715">tra</w>
-      <w xml:id="c16_10716">sé:</w>
+      <w xml:id="c16_10716">sè:</w>
       <w xml:id="c16_10717">—</w>
       <w xml:id="c16_10718">o</w>
       <w xml:id="c16_10719">n'ha</w>
@@ -894,7 +894,7 @@
       <w xml:id="c16_10807">e</w>
       <w xml:id="c16_10808">dice</w>
       <w xml:id="c16_10809">tra</w>
-      <w xml:id="c16_10810">sé,</w>
+      <w xml:id="c16_10810">sè,</w>
       <w xml:id="c16_10811">sospirando:</w>
       <w xml:id="c16_10812">—</w>
       <lb n="29" facs="facsimile.xml#z_0316_l29"/>
@@ -1047,9 +1047,9 @@
       <w xml:id="c16_10945">parte:</w>
       <w xml:id="c16_10946">non</w>
       <w xml:id="c16_10947">vide</w>
-      <w xml:id="c16_10948">né</w>
+      <w xml:id="c16_10948">nè</w>
       <w xml:id="c16_10949">quelli,</w>
-      <w xml:id="c16_10950">né</w>
+      <w xml:id="c16_10950">nè</w>
       <w xml:id="c16_10951">altri</w>
       <w xml:id="c16_10952">che</w>
       <w xml:id="c16_10953">pares<lb n="3" facs="facsimile.xml#z_0317_l03" break="no" rend="hyphen"/>sero</w>
@@ -1160,7 +1160,7 @@
       <w xml:id="c16_11047">vada</w>
       <w xml:id="c16_11048">a</w>
       <w xml:id="c16_11049">spasso,</w>
-      <w xml:id="c16_11050">uscì,</w>
+      <w xml:id="c16_11050">usci,</w>
       <w xml:id="c16_11051">senza</w>
       <lb n="12" facs="facsimile.xml#z_0317_l12"/>
       <w xml:id="c16_11052">che</w>
@@ -1528,7 +1528,7 @@
       <w xml:id="c16_11384">che</w>
       <lb n="27" facs="facsimile.xml#z_0318_l27"/>
       <w xml:id="c16_11385">da</w>
-      <w xml:id="c16_11386">sé</w>
+      <w xml:id="c16_11386">sè</w>
       <w xml:id="c16_11387">non</w>
       <w xml:id="c16_11388">ne</w>
       <w xml:id="c16_11389">poteva</w>
@@ -2003,7 +2003,7 @@
       <lb n="25" facs="facsimile.xml#z_0319_l25"/>
       <w xml:id="c16_11822">di</w>
       <w xml:id="c16_11823">Milano:</w>
-      <w xml:id="c16_11824">ché</w>
+      <w xml:id="c16_11824">chè</w>
       <w xml:id="c16_11825">la</w>
       <w xml:id="c16_11826">voce</w>
       <w xml:id="c16_11827">n'era</w>
@@ -2097,7 +2097,7 @@
       <w xml:id="c16_11905">pen<lb n="33" facs="facsimile.xml#z_0319_l33" break="no" rend="hyphen"/>sava</w>
       <w xml:id="c16_11906">intanto</w>
       <w xml:id="c16_11907">tra</w>
-      <w xml:id="c16_11908">sé.</w>
+      <w xml:id="c16_11908">sè.</w>
       </p>
 <p>
       <lb n="34" facs="facsimile.xml#z_0319_l34"/>
@@ -2111,7 +2111,7 @@
 <p>
       <lb n="35" facs="facsimile.xml#z_0319_l35"/>
       <w xml:id="c16_11915">«Gorgonzola!»</w>
-      <w xml:id="c16_11916">ripeté</w>
+      <w xml:id="c16_11916">ripetè</w>
       <w xml:id="c16_11917">Renzo,</w>
       <w xml:id="c16_11918">quasi</w>
       <w xml:id="c16_11919">per</w>
@@ -2252,7 +2252,7 @@
       <w xml:id="c16_12034">pagò</w>
       <w xml:id="c16_12035">il</w>
       <w xml:id="c16_12036">conto,</w>
-      <w xml:id="c16_12037">uscì,</w>
+      <w xml:id="c16_12037">usci,</w>
       <w xml:id="c16_12038">e</w>
       <w xml:id="c16_12039">prese</w>
       <w xml:id="c16_12040">a</w>
@@ -2518,7 +2518,7 @@
       <w xml:id="c16_12274">far</w>
       <w xml:id="c16_12275">presto,»</w>
       <w xml:id="c16_12276">soggiunse:</w>
-      <w xml:id="c16_12277">«perché</w>
+      <w xml:id="c16_12277">«perchè</w>
       <lb n="5" facs="facsimile.xml#z_0321_l05"/>
       <w xml:id="c16_12278">ho</w>
       <w xml:id="c16_12279">bisogno</w>
@@ -2534,7 +2534,7 @@
       <w xml:id="c16_12290">non</w>
       <lb n="6" facs="facsimile.xml#z_0321_l06"/>
       <w xml:id="c16_12291">solo</w>
-      <w xml:id="c16_12289">perché</w>
+      <w xml:id="c16_12289">perchè</w>
       <w xml:id="c16_12292">era</w>
       <w xml:id="c16_12293">vero,</w>
       <w xml:id="c16_12294">ma</w>
@@ -2656,9 +2656,9 @@
       <w xml:id="c16_12398">soddisfarla:</w>
       <w xml:id="c16_12399">una</w>
       <w xml:id="c16_12400">sollevazione,</w>
-      <w xml:id="c16_12401">né</w>
+      <w xml:id="c16_12401">nè</w>
       <w xml:id="c16_12402">soggiogata</w>
-      <w xml:id="c16_12403">né</w>
+      <w xml:id="c16_12403">nè</w>
       <w xml:id="c16_12404">vittoriosa,</w>
       <lb n="16" facs="facsimile.xml#z_0321_l16"/>
       <w xml:id="c16_12405">sospesa</w>
@@ -2823,7 +2823,7 @@
       <w xml:id="c16_12534">rigor</w>
       <w xml:id="c16_12535">di</w>
       <w xml:id="c16_12536">termini,</w>
-      <w xml:id="c16_12537">perché</w>
+      <w xml:id="c16_12537">perchè</w>
       <lb n="31" facs="facsimile.xml#z_0321_l31"/>
       <w xml:id="c16_12538">c'era</w>
       <w xml:id="c16_12539">passato;</w>
@@ -2986,7 +2986,7 @@
 <p>
       <lb n="7" facs="facsimile.xml#z_0322_l07"/>
       <w xml:id="c16_12673">«Cioè...</w>
-      <w xml:id="c16_12674">sì...</w>
+      <w xml:id="c16_12674">si...</w>
       <w xml:id="c16_12675">all'Adda.»</w>
    </p>
    <p>
@@ -3019,7 +3019,7 @@
       <w xml:id="c16_12694">«Eh,</w>
       <w xml:id="c16_12695">volevo</w>
       <w xml:id="c16_12696">dire,</w>
-      <w xml:id="c16_12697">perché</w>
+      <w xml:id="c16_12697">perchè</w>
       <w xml:id="c16_12698">quelli</w>
       <w xml:id="c16_12699">sono</w>
       <w xml:id="c16_12700">i</w>
@@ -3035,7 +3035,7 @@
       <w xml:id="c16_12710">dar</w>
       <w xml:id="c16_12711">conto</w>
       <w xml:id="c16_12712">di</w>
-      <w xml:id="c16_12713">sé.»</w>
+      <w xml:id="c16_12713">sè.»</w>
       </p>
 <p>
       <lb n="12" facs="facsimile.xml#z_0322_l12"/>
@@ -3210,7 +3210,7 @@
       <w xml:id="c16_12854">esclamò</w>
       <w xml:id="c16_12855">Renzo</w>
       <w xml:id="c16_12856">tra</w>
-      <w xml:id="c16_12857">sé:</w>
+      <w xml:id="c16_12857">sè:</w>
       <w xml:id="c16_12858">—</w>
       <w xml:id="c16_12859">più</w>
       <w xml:id="c16_12860">ne</w>
@@ -3676,7 +3676,7 @@
       <w xml:id="c16_13256">solito</w>
       <w xml:id="c16_13257">boccone,</w>
       <w xml:id="c16_13258">subito;</w>
-      <w xml:id="c16_13259">perché</w>
+      <w xml:id="c16_13259">perchè</w>
       <w xml:id="c16_13260">voglio</w>
       <lb n="1" facs="facsimile.xml#z_0325_l01"/>
       <pb n="319" facs="facsimile.xml#surf_0325"/>
@@ -3806,7 +3806,7 @@
       <w xml:id="c16_13360">d'oggi.</w>
       <lb n="13" facs="facsimile.xml#z_0325_l13"/>
       <w xml:id="c16_13361">Sentirete.»</w>
-      <w xml:id="c16_13362">Empì</w>
+      <w xml:id="c16_13362">Empi</w>
       <w xml:id="c16_13363">il</w>
       <w xml:id="c16_13364">bicchiere,</w>
       <w xml:id="c16_13365">lo</w>
@@ -3865,7 +3865,7 @@
       <w xml:id="c16_13414">con</w>
       <w xml:id="c16_13415">voi</w>
       <w xml:id="c16_13416">altri;</w>
-      <w xml:id="c16_13417">perché</w>
+      <w xml:id="c16_13417">perchè</w>
       <w xml:id="c16_13418">avevo</w>
       <w xml:id="c16_13419">già</w>
       <w xml:id="c16_13420">messo</w>
@@ -4576,7 +4576,7 @@
       <w xml:id="c16_14035">tutti</w>
       <w xml:id="c16_14036">tornarono</w>
       <w xml:id="c16_14037">in</w>
-      <w xml:id="c16_14038">sé.</w>
+      <w xml:id="c16_14038">sè.</w>
       <w xml:id="c16_14039">La</w>
       <w xml:id="c16_14040">più</w>
       <w xml:id="c16_14041">parte,</w>
@@ -4584,7 +4584,7 @@
       <lb n="15" facs="facsimile.xml#z_0327_l15"/>
       <w xml:id="c16_14043">dire;</w>
       <w xml:id="c16_14044">c'era</w>
-      <w xml:id="c16_14045">bensì</w>
+      <w xml:id="c16_14045">bensi</w>
       <w xml:id="c16_14046">de'</w>
       <w xml:id="c16_14047">diavoli</w>
       <w xml:id="c16_14048">che,</w>
@@ -5198,7 +5198,7 @@
       <w xml:id="c16_14566">tiro</w>
       <w xml:id="c16_14567">a</w>
       <w xml:id="c16_14568">Mi<lb n="8" facs="facsimile.xml#z_0329_l08" break="no" rend="hyphen"/>lano;</w>
-      <w xml:id="c16_14569">perché</w>
+      <w xml:id="c16_14569">perchè</w>
       <w xml:id="c16_14570">vede</w>
       <w xml:id="c16_14571">bene,</w>
       <w xml:id="c16_14572">il</w>
@@ -5280,7 +5280,7 @@
       <lb n="15" facs="facsimile.xml#z_0329_l15"/>
       <w xml:id="c16_14639">corda,</w>
       <w xml:id="c16_14640">si</w>
-      <w xml:id="c16_14641">sentì</w>
+      <w xml:id="c16_14641">senti</w>
       <w xml:id="c16_14642">venir</w>
       <w xml:id="c16_14643">freddo,</w>
       <w xml:id="c16_14644">e</w>
@@ -5326,7 +5326,7 @@
       <w xml:id="c16_14681">chi</w>
       <w xml:id="c16_14682">fosse</w>
       <w xml:id="c16_14683">mandato,</w>
-      <w xml:id="c16_14684">né</w>
+      <w xml:id="c16_14684">nè</w>
       <w xml:id="c16_14685">che</w>
       <w xml:id="c16_14686">razza</w>
       <lb n="19" facs="facsimile.xml#z_0329_l19"/>
@@ -5455,9 +5455,9 @@
       <w xml:id="c16_14795">che</w>
       <w xml:id="c16_14796">non</w>
       <w xml:id="c16_14797">ha</w>
-      <w xml:id="c16_14798">né</w>
+      <w xml:id="c16_14798">nè</w>
       <w xml:id="c16_14799">casa</w>
-      <w xml:id="c16_14800">né</w>
+      <w xml:id="c16_14800">nè</w>
       <w xml:id="c16_14801">tetto,</w>
       <w xml:id="c16_14802">e</w>
       <w xml:id="c16_14803">trovan</w>
@@ -5470,7 +5470,7 @@
       <lb n="30" facs="facsimile.xml#z_0329_l30"/>
       <w xml:id="c16_14810">rintanarsi:</w>
       <w xml:id="c16_14811">però</w>
-      <w xml:id="c16_14812">finché</w>
+      <w xml:id="c16_14812">finchè</w>
       <w xml:id="c16_14813">il</w>
       <w xml:id="c16_14814">diavolo</w>
       <w xml:id="c16_14815">può,</w>
@@ -5487,7 +5487,7 @@
       <w xml:id="c16_14825">se</w>
       <w xml:id="c16_14826">lo</w>
       <w xml:id="c16_14827">pensano;</w>
-      <w xml:id="c16_14828">perché,</w>
+      <w xml:id="c16_14828">perchè,</w>
       <w xml:id="c16_14829">quando</w>
       <w xml:id="c16_14830">la</w>
       <w xml:id="c16_14831">pera</w>
@@ -5621,7 +5621,7 @@
       <w xml:id="c16_14950">prima,</w>
       <w xml:id="c16_14951">ricorrere</w>
       <w xml:id="c16_14952">ancora;</w>
-      <w xml:id="c16_14953">ché</w>
+      <w xml:id="c16_14953">chè</w>
       <w xml:id="c16_14954">a</w>
       <w xml:id="c16_14955">forza</w>
       <w xml:id="c16_14956">di</w>
@@ -5683,7 +5683,7 @@
       <w xml:id="c16_15006">aveva</w>
       <w xml:id="c16_15007">detto</w>
       <w xml:id="c16_15008">a</w>
-      <w xml:id="c16_15009">sé</w>
+      <w xml:id="c16_15009">sè</w>
       <w xml:id="c16_15010">stesso:</w>
       <w xml:id="c16_15011">andiamo,</w>
       <w xml:id="c16_15012">andiamo.</w>
@@ -5730,7 +5730,7 @@
       <w xml:id="c16_15050">e</w>
       <w xml:id="c16_15051">concluse</w>
       <w xml:id="c16_15052">tra</w>
-      <w xml:id="c16_15053">sé,</w>
+      <w xml:id="c16_15053">sè,</w>
       <w xml:id="c16_15054">di</w>
       <w xml:id="c16_15055">moversi,</w>
       <w xml:id="c16_15056">appena</w>

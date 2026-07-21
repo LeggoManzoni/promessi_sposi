@@ -13,14 +13,16 @@ Nazionale), for the reviewed text of *I Promessi Sposi* (chapters 1–38 + intro
 | punctuation | 71 | sentence-mark choice (`;` ↔ `:`) |
 | case | 43 | capitalization |
 | apostrophe | 29 | imperative `va` → `va'`, elisions — a modernization |
+| footnote marker | 24 | Quarantana prints an inline `*` / reference number |
 
 These are regular conventions of the critical edition (grave→acute accents, etc.).
-Below are the **65 substantive word / form / spelling divergences**.
+Below are the **48 substantive word / form / spelling divergences**.
 
 ## Word / form / spelling divergences
 
 | p. | Quarantana 1840 | Poggi Salani | in context (Quarantana) |
 |---:|---|---|---|
+| 9 | PRIMO. | I | …CAPITOLO PRIMO.… |
 | 15 | Ecevedo, | Acevedo, | …gnore, il Signor Don Pietro Enriquez de Ecevedo, Conte di Fuentes,… |
 | 15 | — *(absent)* | il Signor | …l'Illustrissimo ed Eccellentissimo Signore, Don Giovanni de Mendozza,… |
 | 53 | contra | contro | …atti tirannici che alcuni ardiscono di commettere contra questi Vassal… |
@@ -45,11 +47,9 @@ Below are the **65 substantive word / form / spelling divergences**.
 | 295 | — *(absent)* | a | …dir ciò che sapeva intorno Renzo, ne sapevan già più di lui. Entrò… |
 | 355 | signor | signore | …di Rodrigo, avvertendo il signor zio d'un affare che, se lei non ci… |
 | 357 | signor zio: | signore zio; | …da non trattenerne il signor zio: il serio è che il frate s'è messo a… |
-| 359 | come è | com'è | …non conosco: so che il padre provinciale ha, come è giusto, una gran… |
 | 369 | di | da | …noi, da buoni amici; e tra di noi hanno di rimanere. Non si dia pen… |
 | 381 | respingerla | rispingerla | …tale anche lui; non si poteva respingerla con armi migliori, e con un… |
 | 383 | aver | avere | …può aver inteso che quella volta non fu l'ultima, non fu che un primo… |
-| 404 | consolata, voi | consolata! Voi | …m'avete consolata, voi che avete patito tanti dolori, e siete ora tant… |
 | 412 | fare | far | …Il signore uscì, riprese la sua carabina, mandò Marta a fare anti… |
 | 423 | parebbero | parrebbero | …parebbero a ognuno piuttosto strane che mal fondate; dico anche a co… |
 | 430 | omicciatolo, | omiciattolo, | …son cose magnifiche e degne di Lui? Oh pensate! se io omicciatolo,… |
@@ -69,5 +69,48 @@ Below are the **65 substantive word / form / spelling divergences**.
 | 616 | de'commissari; | de'commissari, come abbiam detto; | …dati per superiori de' commissari; sopra questi e quelli eran dele… |
 | 670 | ai | al | …al cigolìo de' carri, ai calpestìo de' cavalli, risonava nel vòtò sile… |
 | 671 | l'altri | l'altre | …folla, e pure si faceva sentire più che tutte l'altri voci: una canzon… |
-| 699 | no. Il | no: il | …«No, Renzo, no. Il Signore non vuole che facciamo del male,… |
 | 703 | Providenza; | Provvidenza; | …con che gratitudine per lei, e per la Providenza; ma soltanto fin che… |
+
+## Additional variants from the born-digital PS collation (2026-07-17)
+
+These were found by a fresh token-by-token collation of our TEI reading text
+against the born-digital *Edizione Nazionale* PDF (exact text layer, not OCR),
+then verified three-way against the Quarantana 1840 print (FICLIT facsimile).
+In every case below **our TEI matches the Quarantana print** and Poggi Salani
+made the editorial change — so these confirm the TEI is faithful to the 1840
+witness. Keyed by chapter (not print page) since they come from the TEI side.
+
+| chapter | Quarantana 1840 = our TEI | Poggi Salani | in context |
+|---|---|---|---|
+| cap5 | sur | su | …chiocciola, e pervenne __sur__… |
+| cap6 | son | sono | …voi, e non __son__… |
+| cap7 | e | *(absent)* | …parlando col naso, __e__… |
+| cap8 | e | *(absent)* | …dell'autorità del padre, __e__… |
+| cap8 | messi | messo | …cui ha già __messi__… |
+| cap9 | e | ed | …mattina, Gertrude stuccata __e__… |
+| cap10 | un'antica | una antica | …d'una conoscenza contraffanno __un'antica__… |
+| cap12 | momenti | *(absent)* | …aprite! aprite!» Pochi __momenti__… |
+| cap12 | furono | furon | …strade, e, quando __furono__… |
+| cap15 | essere | esser | …così bene; da __essere__… |
+| cap16 | avevan | avean | …sopra tutto come __avevan__… |
+| cap18 | le | la | …provocarlo in tutte __le__… |
+| cap20 | lì | *(absent)* | …dietro le spalle, __lì__… |
+| cap29 | a | *(absent)* | …che Dio dava __a__… |
+| cap32 | bisognava | bisognaua | …di guerra, et __bisognava__ (archaic grida; PS keeps u/v)… |
+| cap34 | al | ai | …di trovarsi ancora __al__… |
+| cap34 | essere | esser | …che si diceva __essere__… |
+| cap34 | aria | l'aria | …il monatto: «m'hai __aria__… |
+| cap35 | ci | *(absent)* | …uomini che non __ci__… |
+| cap35 | tu | *(absent)* | …T'ho ascoltato quando __tu__… |
+| cap36 | potere | poter | …in grado di __potere__… |
+| cap38 | arricciare | arricciar | …le spalle, ad __arricciare__… |
+| cap38 | e | *(absent)* | …io a parlarvene? __e__… |
+| cap38 | ne | *(absent)* | …pensato quel che __ne__… |
+
+The same collation also corrected **4 genuine TEI errors** (where the Quarantana
+print *and* PS agree against an earlier misreading): cap1 `don`→`Don` (Gomez
+Suarez), cap10 `ancor`→`ancora`, cap12 `tornare`→`tornar`, cap29
+`cercare`→`cercar`, cap33 `lui`→`colui`. It further surfaced **2 typographic
+slips in the born-digital PS itself** — `ormal` for `ormai` (cap14 context) and
+`toccase` for `toccasse` (cap8 context) — where our TEI/Quarantana reading is
+the correct one.

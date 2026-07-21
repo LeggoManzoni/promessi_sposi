@@ -1,7 +1,7 @@
 # Validation report
 
 - **Release**: v1.0.0 (release candidate; final Git tag to be recorded at deposit)
-- **Date of validation**: 2026-07-17
+- **Date of validation**: 2026-07-20
 - **Tools**: Python 3.10.12, lxml 5.3.0 (libxml2 RelaxNG validator), TEI P5 `tei_all.rng`
 - **Files checked**: `quarantana/*.xml` (42 files), `dist/promessi-sposi-quarantana.xml`,
   `illustrations_metadata.csv`
@@ -15,11 +15,11 @@
 | `<zone type="line">` | 20,579 |
 | `<zone type="illustration">` | 438 |
 | `<zone type="runningHead">` / `pageNum` / `signature` | 704 / 703 / 72 |
-| `<w>` word tokens | 215,960 |
+| `<w>` word tokens | 215,954 |
 | `<figure>` in the text layer | 438 |
 | `@facs` links: `<lb>` / `<head>` / `<pb>` | 20,540 / 39 / 742 |
 | CSV illustration records | 505 (unique `item_id`) |
-| Unique `xml:id` in the assembled edition | 239,335 |
+| Unique `xml:id` in the assembled edition | 239,329 |
 
 ## Checks performed — all passed (17/17)
 
@@ -85,6 +85,35 @@ counts above is −8 `<w>` tokens (and the corresponding −8 `xml:id` values)
 relative to the 2026-07-11 report. The classified divergences between the
 two source texts are documented in
 `docs/quarantana-poggisalani-collation.md`.
+
+A second pass, collating the TEI reading text against the born-digital
+*Edizione Nazionale* PDF, corrected five further single-token readings
+(`cap1` `don`→`Don`, `cap10` `ancor`→`ancora`, `cap12`
+`tornare`→`tornar`, `cap29` `cercare`→`cercar`, `cap33`
+`lui`→`colui`), in each case where the Quarantana print and Poggi Salani
+agree against the earlier transcription. These are substitutions only: the
+token and `xml:id` counts above are unchanged.
+
+## Adoption of the documentary text (2026-07-20)
+
+Following the decision that the edition presents the printed exemplar itself
+(*il documento*) rather than a critical reading text, the substantive readings
+and the accentuation were brought back to the 1840 print, keeping only the
+corrections of its manifest errors. 36 substantive readings were reverted and
+1,274 acute accents restored to the grave of the print (`perché` → `perchè`).
+The net effect on the counts above is **−6** `<w>` tokens (215,960 → 215,954;
+unique `xml:id` 239,335 → 239,329): eight words supplied by the critical
+edition were removed and two words of the print restored. Every decision is
+recorded, with identifiers, in `docs/editorial-decisions-quarantana.md`. The
+readings of the critical edition are preserved as a parallel set in the
+project repository.
+
+A further pass adjudicated 653 accent cases against the facsimile images,
+removing the grave from 140 stressed word-final *i* forms the print sets bare
+(interior-vowel accents such as `ronzìo`/`princìpi`/`vòto` were left as encoded,
+pending higher-resolution review); it also restored 54 capitalizations and all 39 chapter headings
+(`CAPITOLO PRIMO.`, `CAPITOLO II.` …) to the form of the print. These are
+text-content changes only: the token and `xml:id` counts above are unaffected.
 
 ## Result
 

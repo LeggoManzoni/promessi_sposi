@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <div type="introduzione" n="0" xml:id="introduzione">
    <pb n="5" facs="facsimile.xml#surf_0011"/>
-   <head facs="facsimile.xml#z_0011_l01">INTRODUZIONE</head>
+   <head facs="facsimile.xml#z_0011_l01">INTRODUZIONE.</head>
    <p>
       <milestone unit="comma" n="1"/>
       <hi rend="italic">
@@ -21,7 +21,7 @@
          <w xml:id="intro_10010">il</w>
          <w xml:id="intro_10011">Tempo,</w>
          <lb n="7" facs="facsimile.xml#z_0011_l07"/>
-         <w xml:id="intro_10012">perché</w>
+         <w xml:id="intro_10012">perchè</w>
          <w xml:id="intro_10013">toglien<lb n="8" facs="facsimile.xml#z_0011_l08" break="no" rend="hyphen"/>doli</w>
          <w xml:id="intro_10014">di</w>
          <w xml:id="intro_10015">mano</w>
@@ -326,7 +326,7 @@
          <w xml:id="intro_10284">l'humana</w>
          <w xml:id="intro_10285">mal<lb n="26" facs="facsimile.xml#z_0012_l26" break="no" rend="hyphen"/>itia</w>
          <w xml:id="intro_10286">per</w>
-         <w xml:id="intro_10287">sé</w>
+         <w xml:id="intro_10287">sè</w>
          <w xml:id="intro_10288">sola</w>
          <w xml:id="intro_10289">bastar</w>
          <w xml:id="intro_10290">non</w>
@@ -368,7 +368,7 @@
          <w xml:id="intro_10322">verde</w>
          <w xml:id="intro_10323">staggione,</w>
          <lb n="32" facs="facsimile.xml#z_0012_l32"/>
-         <w xml:id="intro_10324">abbenché</w>
+         <w xml:id="intro_10324">abbenchè</w>
          <w xml:id="intro_10325">la</w>
          <w xml:id="intro_10326">più</w>
          <w xml:id="intro_10327">parte</w>
@@ -421,7 +421,7 @@
             <w xml:id="intro_10370" xml:lang="lat" rend="roman">generaliter.</w>
          </foreign>
          <milestone unit="comma" n="7"/>
-         <w xml:id="intro_10371">Né</w>
+         <w xml:id="intro_10371">Nè</w>
          <lb n="39" facs="facsimile.xml#z_0012_l39"/>
          <w xml:id="intro_10372">alcuno</w>
          <w xml:id="intro_10373">dirà</w>
@@ -471,7 +471,7 @@
          <w xml:id="intro_10411">detta</w>
          <w xml:id="intro_10412">Narratione.</w>
          <milestone unit="comma" n="8"/>
-         <w xml:id="intro_10413">Imperciocché,</w>
+         <w xml:id="intro_10413">Imperciocchè,</w>
          <w xml:id="intro_10414">essendo</w>
          <lb n="46" facs="facsimile.xml#z_0012_l46"/>
          <w xml:id="intro_10415">cosa</w>
@@ -710,7 +710,7 @@
       <w xml:id="intro_10616">insomma</w>
       <w xml:id="intro_10617">che</w>
       <w xml:id="intro_10618">richiedono</w>
-      <w xml:id="intro_10619">bensì</w>
+      <w xml:id="intro_10619">bensi</w>
       <lb n="77" facs="facsimile.xml#z_0012_l77"/>
       <w xml:id="intro_10620">un</w>
       <w xml:id="intro_10621">po'</w>
@@ -875,7 +875,7 @@
       <w xml:id="intro_10758">rimanersi</w>
       <w xml:id="intro_10759">tutta<lb n="20" facs="facsimile.xml#z_0013_l20" break="no" rend="hyphen"/>via</w>
       <w xml:id="intro_10760">sconosciuta;</w>
-      <w xml:id="intro_10761">perché,</w>
+      <w xml:id="intro_10761">perchè,</w>
       <w xml:id="intro_10762">in</w>
       <w xml:id="intro_10763">quanto</w>
       <w xml:id="intro_10764">storia,</w>
@@ -902,7 +902,7 @@
       <w xml:id="intro_10782">bella.</w>
       <milestone unit="comma" n="21"/>
       <w xml:id="intro_10783">—</w>
-      <w xml:id="intro_10784">Perché</w>
+      <w xml:id="intro_10784">Perchè</w>
       <w xml:id="intro_10785">non</w>
       <w xml:id="intro_10786">si</w>
       <w xml:id="intro_10787">potrebbe,</w>
@@ -1227,7 +1227,7 @@
       <w xml:id="intro_11061">tutte</w>
       <w xml:id="intro_11062">anticipa<lb n="67" facs="facsimile.xml#z_0013_l67" break="no" rend="hyphen"/>tamente.</w>
       <milestone unit="comma" n="31"/>
-      <w xml:id="intro_11063">Né</w>
+      <w xml:id="intro_11063">Nè</w>
       <w xml:id="intro_11064">in</w>
       <w xml:id="intro_11065">questo</w>
       <w xml:id="intro_11066">sarebbe</w>
@@ -1235,7 +1235,7 @@
       <w xml:id="intro_11068">la</w>
       <lb n="68" facs="facsimile.xml#z_0013_l68"/>
       <w xml:id="intro_11069">difficoltà;</w>
-      <w xml:id="intro_11070">giacché</w>
+      <w xml:id="intro_11070">giacchè</w>
       <w xml:id="intro_11071">(dobbiam</w>
       <w xml:id="intro_11072">dirlo</w>
       <w xml:id="intro_11073">a</w>

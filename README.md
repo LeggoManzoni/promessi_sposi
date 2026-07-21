@@ -3,9 +3,10 @@
 A TEI encoding of Alessandro Manzoni's *I promessi sposi* whose reading text
 is aligned, line by line, to a digital facsimile of the *Quarantana* (the
 illustrated 1840 Milan edition Manzoni himself supervised). The reading text
-is Teresa Poggi Salani's critical edition (2013); the facsimile layer
-reproduces a physical copy of the Quarantana owned by Paola Italia,
-digitized by FICLIT/AdLab and
+is **documentary**: it presents the text of that printed exemplar, with the
+manifest errors of the print corrected; the facsimile layer
+reproduces a physical copy of the Quarantana held in a private
+collection (*fondo privato*), digitized by FICLIT/AdLab and
 served over IIIF by the FICLIT Digital Library (Università di
 Bologna). Every line of
 the text is linked to the pixel region of the printed page it corresponds
@@ -67,7 +68,7 @@ below; for illustrations, `illustrations_metadata.csv` has ready-made
 
 The edition has two linked layers:
 
-- **Text layer** (`intro.xml`, `cap1..38.xml`): the critical reading text,
+- **Text layer** (`intro.xml`, `cap1..38.xml`): the documentary reading text,
   encoded as chapters (`<div type="capitolo">`), paragraphs, and word tokens,
   with line breaks (`<lb>`), page breaks (`<pb>`), illustrations (`<figure>`),
   footnotes (`<note>`), and an editorial clause-numbering grid
@@ -84,19 +85,23 @@ facsimile layer. A `<surface>` corresponds to one printed
 page; a `<zone>` corresponds to one physical line of print or one
 illustration on that page.
 
-## Textual relationship: not a diplomatic transcription
+## Textual relationship: a corrected documentary text
 
-The reading text is a **critical edition** (Teresa Poggi Salani, 2013) —
-not a diplomatic transcription of the print. The facsimile reproduces a
-**physical copy** of the Quarantana (Paola Italia's volume, digitized and
-served in digital form by FICLIT). Text and facsimile therefore belong to
-the same
-edition-level tradition but are *aligned* rather than transcribed from one
-another: the facsimile layer connects the critical text to the printed page
-line by line, so a reader or downstream tool can see which physical line
-underlies any given stretch of text, while a few printed glyphs will not
-match the encoded text character-for-character — the critical edition's
-corrections and normalizations.
+The reading text and the facsimile are the **same witness**: the text
+presents the 1840 Quarantana as printed in the digitized exemplar (a *fondo
+privato* volume, digitized and served in digital form by FICLIT), down to its
+accentuation (`perchè`, `nè`, `sè`). It is a *corrected* documentary text
+rather than a strict diplomatic transcription: manifest errors of the print
+are emended where the sense and Teresa Poggi Salani's critical edition
+(Edizione Nazionale, 2013) agree against it — for example `apparcecchiare` →
+`apparecchiare`, `l'altri voci` → `l'altre voci`.
+
+The critical edition is used as a **collating witness**, not as copy-text.
+Every divergence between the two is recorded, with its `xml:id`, in
+`docs/editorial-decisions-quarantana.md`, which also lists the readings still
+to be checked against the editions of Chiari-Ghisalberti, Nigro and Badini
+Confalonieri. Capitalization, punctuation and quote-order remain under
+review.
 
 ## Alignment provenance & verification
 
@@ -115,7 +120,7 @@ Four distinct quality claims, kept separate:
 | **Coverage** — every encoded textual line has a facsimile target | Complete within the encoded scope (introduction + 38 chapters) |
 | **Link correctness** — the target is the corresponding printed line | Manually reviewed page by page in eScriptorium |
 | **Geometry** — the box encloses the relevant line | Corrected where necessary; functional regions, not pixel-perfect contours |
-| **Textual identity** — encoded characters reproduce the print exactly | Not claimed: the text is a critical reading text, not a transcription |
+| **Textual identity** — encoded characters reproduce the print exactly | Substantially: the text is documentary, but manifest errors of the print are corrected (see `docs/editorial-decisions-quarantana.md`) |
 
 ## Coordinates & IIIF
 
@@ -192,8 +197,8 @@ externally hosted page images) are itemized in `RIGHTS.md`.
   chapter range in the `<respStmt>` entries of `quarantana/header.xml` and
   in `CONTRIBUTORS.md`.
 - **Images / IIIF**: the digitized volume is a physical copy of the 1840
-  Quarantana owned by Paola Italia, one of the project's Principal
-  Investigators. It was digitized by FICLIT/AdLab, and the digital copy is
+  Quarantana held in a private collection (*fondo privato*). It was
+  digitized by FICLIT/AdLab, and the digital copy is
   held and served by the FICLIT Digital Library,
   Università di Bologna (`https://dlrc.ficlit.unibo.it`; IIIF manifest:
   `https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest`). Images are **not

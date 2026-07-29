@@ -1,0 +1,90 @@
+@base <./> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<#validate> a prov:Activity ;
+    rdfs:label "Three-layer TEI validation (validate_tei.py)" ;
+    prov:used <quarantana/>,
+        <quarantana/facsimile.xml> ;
+    prov:wasAssociatedWith <#alignment-pipeline> .
+
+<#catmus> a prov:SoftwareAgent ;
+    rdfs:label "CATMUS (HTR model)" .
+
+<#documentary-reversion> a prov:Activity ;
+    rdfs:label "Move reading text onto the print (documentary decision)" ;
+    prov:used <#poggi-salani-2013>,
+        <build/alto_ground_truth_verified/> ;
+    prov:wasAssociatedWith <#leggomanzoni> ;
+    prov:wasInformedBy <#align> .
+
+<#enrich> a prov:Activity ;
+    rdfs:label "Inject @facs + build facsimile.xml (enrich_tei.py)" ;
+    prov:used <build/alignment.json> ;
+    prov:wasAssociatedWith <#alignment-pipeline> .
+
+<#ficlit> a prov:Organization ;
+    rdfs:label "FICLIT Digital Library, Universita di Bologna" .
+
+<#htr-transcription> a prov:Activity ;
+    rdfs:label "HTR transcription of the facsimile" ;
+    prov:used <#quarantana-1840> ;
+    prov:wasAssociatedWith <#catmus> .
+
+<#human-review> a prov:Activity ;
+    rdfs:label "Expert line review + correction" ;
+    prov:used <#catmus-alto-export> ;
+    prov:wasAssociatedWith <#leggomanzoni> .
+
+<#parse-alto> a prov:Activity ;
+    rdfs:label "Parse ALTO export (parse_alto.py)" ;
+    prov:used <#catmus-alto-export> ;
+    prov:wasAssociatedWith <#alignment-pipeline> .
+
+<build/alignment.json> a prov:Entity ;
+    rdfs:label "TEI–facsimile alignment" ;
+    prov:wasGeneratedBy <#align> .
+
+<build/alto_ground_truth_verified/> a prov:Entity ;
+    rdfs:label "Q40 verified diplomatic transcription" ;
+    prov:wasDerivedFrom <#quarantana-1840> ;
+    prov:wasGeneratedBy <#human-review> .
+
+<build/alto_lines.json> a prov:Entity ;
+    rdfs:label "Parsed ALTO line inventory" ;
+    prov:wasGeneratedBy <#parse-alto> .
+
+<quarantana/facsimile.xml> a prov:Entity ;
+    rdfs:label "Facsimile layer (surfaces/zones)" ;
+    prov:wasGeneratedBy <#enrich> .
+
+<#align> a prov:Activity ;
+    rdfs:label "Align TEI tokens to facsimile lines (align.py)" ;
+    prov:used <build/alto_lines.json>,
+        <quarantana/> ;
+    prov:wasAssociatedWith <#alignment-pipeline> .
+
+<#catmus-alto-export> a prov:Entity ;
+    rdfs:label "CATMUS HTR ALTO export" ;
+    prov:wasGeneratedBy <#htr-transcription> .
+
+<#poggi-salani-2013> a prov:Entity ;
+    rdfs:label "I promessi sposi, ed. Poggi Salani (2013)" .
+
+<quarantana/> a prov:Entity ;
+    rdfs:label "Documentary Quarantana TEI edition" ;
+    prov:wasAttributedTo <#leggomanzoni> ;
+    prov:wasDerivedFrom <#poggi-salani-2013>,
+        <#quarantana-1840> ;
+    prov:wasGeneratedBy <#documentary-reversion> .
+
+<#leggomanzoni> a prov:Organization ;
+    rdfs:label "LeggoManzoni (Manzoni Online)" .
+
+<#quarantana-1840> a prov:Entity ;
+    rdfs:label "I promessi sposi, 1840 Quarantana — FICLIT digitization of a copy from a private collection (fondo privato)" ;
+    prov:wasAttributedTo <#ficlit> .
+
+<#alignment-pipeline> a prov:SoftwareAgent ;
+    rdfs:label "LeggoManzoni facsimile-alignment pipeline" .
+

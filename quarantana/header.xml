@@ -74,13 +74,16 @@
                         "Quarantana")</title>
                     <author ref="#AM">Manzoni, Alessandro</author>
                     <date>1840</date>
-                    <note>Facsimile witness: copy of the 1840 Quarantana digitized by the
-                        FICLIT Digital Library, Università di Bologna. IIIF manifest: <ref target="https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest">https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest</ref>.</note>
-                    <note>The reading text edited here is Teresa Poggi Salani's critical
-                        edition (2013), whose copy-text is this same 1840 Quarantana copy;
-                        the digital facsimile anchors that critical text to the witness. It
-                        is therefore a critical/reading text, not a diplomatic transcription
-                        of the print.</note>
+                    <note>Facsimile witness: an exemplar of the 1840 Quarantana from a
+                        private collection (fondo privato), digitized by the FICLIT
+                        Digital Library, Università di Bologna, which holds the digital
+                        copy and serves it over IIIF. IIIF manifest: <ref target="https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest">https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest</ref>.</note>
+                    <note>The reading text edited here is a documentary edition of the
+                        1840 print: the text as printed, emended only where the print is
+                        manifestly in error, with the emendations documented in the
+                        edition's records. Teresa Poggi Salani's critical edition (2013,
+                        cited above) was consulted as a collation witness during
+                        verification; her text is not reproduced in this dataset.</note>
                 </bibl>
             </sourceDesc>
             <sourceDesc>

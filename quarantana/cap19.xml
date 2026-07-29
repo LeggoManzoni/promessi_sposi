@@ -4,9 +4,9 @@
    <head facs="facsimile.xml#z_0367_l01">CAPITOLO XIX.</head>
    <p>
       <milestone unit="comma" n="1"/>
-      <lb n="2" facs="facsimile.xml#z_0367_l02"/>
       <figure facs="facsimile.xml#z_0367_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228987" type="intestazione"/>
       <figure facs="facsimile.xml#z_0367_fig2" corresp="https://dlrc.ficlit.unibo.it/api/items/228988" type="capolettera"/>
+      <lb n="2" facs="facsimile.xml#z_0367_l02"/>
       <w xml:id="c19_10001">Chi,</w>
       <w xml:id="c19_10002">vedendo</w>
       <w xml:id="c19_10003">in</w>
@@ -136,8 +136,8 @@
       <w xml:id="c19_10120">di</w>
       <w xml:id="c19_10121">quel</w>
       <w xml:id="c19_10122">ripiego,</w>
-      <lb n="1" facs="facsimile.xml#z_0368_l01"/>
       <pb n="362" facs="facsimile.xml#surf_0368"/>
+      <lb n="1" facs="facsimile.xml#z_0368_l01"/>
       <w xml:id="c19_10123">e</w>
       <w xml:id="c19_10124">metterlo</w>
       <w xml:id="c19_10125">sulla</w>
@@ -590,8 +590,8 @@
       <w xml:id="c19_10535">la</w>
       <w xml:id="c19_10536">vita;</w>
       <w xml:id="c19_10537">i</w>
-      <lb n="1" facs="facsimile.xml#z_0369_l01"/>
       <pb n="363" facs="facsimile.xml#surf_0369"/>
+      <lb n="1" facs="facsimile.xml#z_0369_l01"/>
       <w xml:id="c19_10538">quali,</w>
       <w xml:id="c19_10539">cominciando</w>
       <w xml:id="c19_10540">dalla</w>
@@ -768,8 +768,8 @@
       <w xml:id="c19_10699">gli</w>
       <w xml:id="c19_10700">era</w>
       <w xml:id="c19_10701">accanto,</w>
-      <lb n="15" facs="facsimile.xml#z_0369_l15"/>
       <figure facs="facsimile.xml#z_0369_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228989" type="altre_illustrazioni"/>
+      <lb n="15" facs="facsimile.xml#z_0369_l15"/>
       <w xml:id="c19_10702">e</w>
       <w xml:id="c19_10703">che</w>
       <w xml:id="c19_10704">lo</w>
@@ -800,8 +800,8 @@
       <w xml:id="c19_10728">corte,</w>
       <w xml:id="c19_10729">di</w>
       <w xml:id="c19_10730">dignità</w>
-      <lb n="1" facs="facsimile.xml#z_0370_l01"/>
       <pb n="364" facs="facsimile.xml#surf_0370"/>
+      <lb n="1" facs="facsimile.xml#z_0370_l01"/>
       <w xml:id="c19_10731">in</w>
       <w xml:id="c19_10732">dignità,</w>
       <w xml:id="c19_10733">lo</w>
@@ -1249,8 +1249,8 @@
       <w xml:id="c19_11130">sentito</w>
       <w xml:id="c19_11131">parlare;</w>
       <w xml:id="c19_11132">quello</w>
-      <lb n="1" facs="facsimile.xml#z_0371_l01"/>
       <pb n="365" facs="facsimile.xml#surf_0371"/>
+      <lb n="1" facs="facsimile.xml#z_0371_l01"/>
       <w xml:id="c19_11133">che,</w>
       <w xml:id="c19_11134">con</w>
       <w xml:id="c19_11135">tanto</w>
@@ -1686,8 +1686,8 @@
       <w xml:id="c19_11510">***.»</w>
       </p>
 <p>
-      <lb n="1" facs="facsimile.xml#z_0372_l01"/>
       <pb n="366" facs="facsimile.xml#surf_0372"/>
+      <lb n="1" facs="facsimile.xml#z_0372_l01"/>
       <w xml:id="c19_11511">«Oh!</w>
       <w xml:id="c19_11512">questo</w>
       <w xml:id="c19_11513">mi</w>
@@ -1853,8 +1853,8 @@
       <w xml:id="c19_11653">Mio</w>
       <w xml:id="c19_11654">nipote</w>
       <w xml:id="c19_11655">è</w>
-      <lb n="15" facs="facsimile.xml#z_0372_l15"/>
       <figure facs="facsimile.xml#z_0372_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228990" type="altre_illustrazioni"/>
+      <lb n="15" facs="facsimile.xml#z_0372_l15"/>
       <w xml:id="c19_11656">giovine;</w>
       <w xml:id="c19_11657">il</w>
       <w xml:id="c19_11658">religioso,</w>
@@ -1915,8 +1915,8 @@
       <w xml:id="c19_11706">uno</w>
       <w xml:id="c19_11707">scenario,</w>
       <w xml:id="c19_11708">prima</w>
-      <lb n="1" facs="facsimile.xml#z_0373_l01"/>
       <pb n="367" facs="facsimile.xml#surf_0373"/>
+      <lb n="1" facs="facsimile.xml#z_0373_l01"/>
       <w xml:id="c19_11709">del</w>
       <w xml:id="c19_11710">tempo,</w>
       <w xml:id="c19_11711">e</w>
@@ -2080,7 +2080,7 @@
       <w xml:id="c19_11855">lui,</w>
       <w xml:id="c19_11856">«tocca</w>
       <w xml:id="c19_11857">a</w>
-      <w xml:id="c19_11858">noi»,</w>
+      <w xml:id="c19_11858">noi,»</w>
       <w xml:id="c19_11859">continuò,</w>
       <w xml:id="c19_11860">«a</w>
       <w xml:id="c19_11861">aver</w>
@@ -2304,7 +2304,7 @@
       <w xml:id="c19_12058">punto</w>
       <w xml:id="c19_12059">fermo,</w>
       <w xml:id="c19_12060">«intendo</w>
-      <w xml:id="c19_12061">benissimo»,</w>
+      <w xml:id="c19_12061">benissimo,»</w>
       <w xml:id="c19_12062">disse</w>
       <w xml:id="c19_12063">il</w>
       <w xml:id="c19_12064">provinciale,</w>
@@ -2407,8 +2407,8 @@
       <w xml:id="c19_12151">che</w>
       <w xml:id="c19_12152">resti</w>
       <w xml:id="c19_12153">segreta...</w>
-      <lb n="1" facs="facsimile.xml#z_0374_l01"/>
       <pb n="368" facs="facsimile.xml#surf_0374"/>
+      <lb n="1" facs="facsimile.xml#z_0374_l01"/>
       <w xml:id="c19_12154">e</w>
       <w xml:id="c19_12155">allora</w>
       <w xml:id="c19_12156">non</w>
@@ -2435,8 +2435,8 @@
    </p>
    <p>
       <milestone unit="comma" n="25"/>
-      <lb n="3" facs="facsimile.xml#z_0374_l03"/>
       <figure facs="facsimile.xml#z_0374_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228991" type="altre_illustrazioni"/>
+      <lb n="3" facs="facsimile.xml#z_0374_l03"/>
       <w xml:id="c19_12176">«Cospicue.»</w>
       </p>
 <p>
@@ -2663,8 +2663,8 @@
    </p>
    <p>
       <milestone unit="comma" n="27"/>
-      <lb n="1" facs="facsimile.xml#z_0375_l01"/>
       <pb n="369" facs="facsimile.xml#surf_0375"/>
+      <lb n="1" facs="facsimile.xml#z_0375_l01"/>
       <w xml:id="c19_12378">«Tra</w>
       <w xml:id="c19_12379">il</w>
       <w xml:id="c19_12380">signor</w>
@@ -3129,8 +3129,8 @@
       <w xml:id="c19_12799">quando...?»</w>
       </p>
 <p>
-      <lb n="1" facs="facsimile.xml#z_0376_l01"/>
       <pb n="370" facs="facsimile.xml#surf_0376"/>
+      <lb n="1" facs="facsimile.xml#z_0376_l01"/>
       <w xml:id="c19_12800">«Giacchè</w>
       <w xml:id="c19_12801">la</w>
       <w xml:id="c19_12802">cosa</w>
@@ -3266,8 +3266,8 @@
    </p>
    <p>
       <milestone unit="comma" n="33"/>
-      <lb n="14" facs="facsimile.xml#z_0376_l14"/>
       <figure facs="facsimile.xml#z_0376_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228992" type="altre_illustrazioni"/>
+      <lb n="14" facs="facsimile.xml#z_0376_l14"/>
       <w xml:id="c19_12912">Un</w>
       <w xml:id="c19_12913">grande</w>
       <w xml:id="c19_12914">studio,</w>
@@ -3525,8 +3525,8 @@
       <w xml:id="c19_13145">testa</w>
       <w xml:id="c19_13146">davanti</w>
       <w xml:id="c19_13147">al</w>
-      <lb n="11" facs="facsimile.xml#z_0377_l11"/>
       <figure facs="facsimile.xml#z_0377_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228993" type="altre_illustrazioni"/>
+      <lb n="11" facs="facsimile.xml#z_0377_l11"/>
       <w xml:id="c19_13148">padre</w>
       <w xml:id="c19_13149">guardiano;</w>
       <w xml:id="c19_13150">il</w>
@@ -3671,8 +3671,8 @@
       <w xml:id="c19_13277">di</w>
       <w xml:id="c19_13278">tutto</w>
       <w xml:id="c19_13279">ciò:</w>
-      <lb n="1" facs="facsimile.xml#z_0378_l01"/>
       <pb n="372" facs="facsimile.xml#surf_0378"/>
+      <lb n="1" facs="facsimile.xml#z_0378_l01"/>
       <w xml:id="c19_13280">cosa</w>
       <w xml:id="c19_13281">tanto</w>
       <w xml:id="c19_13282">più</w>
@@ -4142,8 +4142,8 @@
       <w xml:id="c19_13703">che,</w>
       <w xml:id="c19_13704">per</w>
       <w xml:id="c19_13705">conto</w>
-      <lb n="1" facs="facsimile.xml#z_0379_l01"/>
       <pb n="373" facs="facsimile.xml#surf_0379"/>
+      <lb n="1" facs="facsimile.xml#z_0379_l01"/>
       <w xml:id="c19_13706">suo,</w>
       <w xml:id="c19_13707">e</w>
       <w xml:id="c19_13708">per</w>
@@ -4256,8 +4256,8 @@
    </p>
    <p>
       <milestone unit="comma" n="43"/>
-      <lb n="10" facs="facsimile.xml#z_0379_l10"/>
       <figure facs="facsimile.xml#z_0379_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228994" type="altre_illustrazioni"/>
+      <lb n="10" facs="facsimile.xml#z_0379_l10"/>
       <w xml:id="c19_13804">Nell'assenza,</w>
       <w xml:id="c19_13805">non</w>
       <w xml:id="c19_13806">ruppe</w>
@@ -4297,8 +4297,8 @@
          <w xml:id="c19_13835">atroci,</w>
          <w xml:id="c19_13836">e</w>
          <w xml:id="c19_13837">di</w>
-         <lb n="1" facs="facsimile.xml#z_0380_l01"/>
          <pb n="374" facs="facsimile.xml#surf_0380"/>
+         <lb n="1" facs="facsimile.xml#z_0380_l01"/>
          <w xml:id="c19_13838">cose</w>
          <w xml:id="c19_13839">funeste»</w>
       </quote>
@@ -4332,7 +4332,7 @@
          <w xml:id="c19_13864">«Anche</w>
          <w xml:id="c19_13865">alcuni</w>
          <w xml:id="c19_13866">principi</w>
-         <w xml:id="c19_13867">esteri»,</w>
+         <w xml:id="c19_13867">esteri,»</w>
          <w xml:id="c19_13868">dice,</w>
          <lb n="4" facs="facsimile.xml#z_0380_l04"/>
          <w xml:id="c19_13869">«si</w>
@@ -4771,8 +4771,8 @@
       <w xml:id="c19_14260">che</w>
       <w xml:id="c19_14261">aveva</w>
       <w xml:id="c19_14262">tiranneggiati,</w>
-      <lb n="1" facs="facsimile.xml#z_0381_l01"/>
       <pb n="375" facs="facsimile.xml#surf_0381"/>
+      <lb n="1" facs="facsimile.xml#z_0381_l01"/>
       <w xml:id="c19_14263">o</w>
       <w xml:id="c19_14264">gli</w>
       <w xml:id="c19_14265">fece</w>
@@ -5242,8 +5242,8 @@
       <w xml:id="c19_14695">almeno</w>
       <w xml:id="c19_14696">a</w>
       <w xml:id="c19_14697">non</w>
-      <lb n="1" facs="facsimile.xml#z_0382_l01"/>
       <pb n="376" facs="facsimile.xml#surf_0382"/>
+      <lb n="1" facs="facsimile.xml#z_0382_l01"/>
       <w xml:id="c19_14698">lasciare</w>
       <w xml:id="c19_14699">scorgere</w>
       <w xml:id="c19_14700">quanto</w>
@@ -5282,7 +5282,7 @@
       <w xml:id="c19_14731">liberamente</w>
       <w xml:id="c19_14732">in</w>
       <lb n="4" facs="facsimile.xml#z_0382_l04"/>
-      <w xml:id="c19_14733">città,</w>
+      <w xml:id="c19_14733">città;</w>
       <w xml:id="c19_14734">godere</w>
       <w xml:id="c19_14735">i</w>
       <w xml:id="c19_14736">comodi,</w>

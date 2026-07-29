@@ -4,9 +4,9 @@
    <head facs="facsimile.xml#z_0071_l01">CAPITOLO IV.</head>
    <p>
       <milestone unit="comma" n="1"/>
-      <lb n="2" facs="facsimile.xml#z_0071_l02"/>
       <figure facs="facsimile.xml#z_0071_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228808" type="intestazione"/>
       <figure facs="facsimile.xml#z_0071_fig2" corresp="https://dlrc.ficlit.unibo.it/api/items/228809" type="capolettera"/>
+      <lb n="2" facs="facsimile.xml#z_0071_l02"/>
       <w xml:id="c4_10001">Il</w>
       <w xml:id="c4_10002">sole</w>
       <w xml:id="c4_10003">non</w>
@@ -181,8 +181,8 @@
       <w xml:id="c4_10158">sui</w>
       <w xml:id="c4_10159">tralci</w>
       <w xml:id="c4_10160">ancor</w>
-      <lb n="1" facs="facsimile.xml#z_0072_l01"/>
       <pb n="66" facs="facsimile.xml#surf_0072"/>
+      <lb n="1" facs="facsimile.xml#z_0072_l01"/>
       <w xml:id="c4_10161">tesi,</w>
       <w xml:id="c4_10162">brillavan</w>
       <w xml:id="c4_10163">le</w>
@@ -629,9 +629,9 @@
    </p>
    <p>
       <milestone unit="comma" n="8"/>
-      <lb n="1" facs="facsimile.xml#z_0073_l01"/>
-      <figure facs="facsimile.xml#z_0073_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228810" type="altre_illustrazioni"/>
       <pb n="67" facs="facsimile.xml#surf_0073"/>
+      <figure facs="facsimile.xml#z_0073_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228810" type="altre_illustrazioni"/>
+      <lb n="1" facs="facsimile.xml#z_0073_l01"/>
       <w xml:id="c4_10567">Il</w>
       <w xml:id="c4_10568">padre</w>
       <persName><w xml:id="c4_10569">Cristoforo</w></persName>
@@ -818,8 +818,8 @@
       <w xml:id="c4_10736">della</w>
       <w xml:id="c4_10737">tavola,</w>
       <w xml:id="c4_10738">ne'</w>
-      <lb n="1" facs="facsimile.xml#z_0074_l01"/>
       <pb n="68" facs="facsimile.xml#surf_0074"/>
+      <lb n="1" facs="facsimile.xml#z_0074_l01"/>
       <w xml:id="c4_10739">momenti</w>
       <w xml:id="c4_10740">della</w>
       <w xml:id="c4_10741">più</w>
@@ -1275,8 +1275,8 @@
       <w xml:id="c4_11153">comprandosi</w>
       <w xml:id="c4_11154">così</w>
       <w xml:id="c4_11155">a</w>
-      <lb n="1" facs="facsimile.xml#z_0075_l01"/>
       <pb n="69" facs="facsimile.xml#surf_0075"/>
+      <lb n="1" facs="facsimile.xml#z_0075_l01"/>
       <w xml:id="c4_11156">contanti</w>
       <w xml:id="c4_11157">inimicizie,</w>
       <w xml:id="c4_11158">invidie</w>
@@ -1499,8 +1499,8 @@
       <w xml:id="c4_11360">vivere</w>
       <w xml:id="c4_11361">co'</w>
       <w xml:id="c4_11362">birboni,</w>
-      <lb n="19" facs="facsimile.xml#z_0075_l19"/>
       <figure facs="facsimile.xml#z_0075_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228811" type="altre_illustrazioni"/>
+      <lb n="19" facs="facsimile.xml#z_0075_l19"/>
       <w xml:id="c4_11363">per</w>
       <w xml:id="c4_11364">amor</w>
       <w xml:id="c4_11365">della</w>
@@ -1533,8 +1533,8 @@
       <w xml:id="c4_11390">sua</w>
       <w xml:id="c4_11391">compagnia,</w>
       <w xml:id="c4_11392">in</w>
-      <lb n="1" facs="facsimile.xml#z_0076_l01"/>
       <pb n="70" facs="facsimile.xml#surf_0076"/>
+      <lb n="1" facs="facsimile.xml#z_0076_l01"/>
       <w xml:id="c4_11393">pensiero</w>
       <w xml:id="c4_11394">dell'avvenire,</w>
       <w xml:id="c4_11395">per</w>
@@ -1554,7 +1554,7 @@
       <w xml:id="c4_11408">buone</w>
       <w xml:id="c4_11409">e</w>
       <w xml:id="c4_11410">in</w>
-      <w xml:id="c4_11411">braverìe,</w>
+      <w xml:id="c4_11411">braverie,</w>
       <w xml:id="c4_11412">più</w>
       <w xml:id="c4_11413">d'una</w>
       <w xml:id="c4_11414">volta</w>
@@ -1773,8 +1773,8 @@
       <w xml:id="c4_11611">rasente</w>
       <w xml:id="c4_11612">al</w>
       <w xml:id="c4_11613">muro;</w>
-      <lb n="20" facs="facsimile.xml#z_0076_l20"/>
       <figure facs="facsimile.xml#z_0076_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228812" type="altre_illustrazioni"/>
+      <lb n="20" facs="facsimile.xml#z_0076_l20"/>
       <w xml:id="c4_11614">ma</w>
       <persName><w xml:id="c4_11615">Lodovico</w></persName>
       <w xml:id="c4_11616">(notate</w>
@@ -1800,8 +1800,8 @@
       <w xml:id="c4_11636">a</w>
       <w xml:id="c4_11637">ficcare</w>
       <w xml:id="c4_11638">il</w>
-      <lb n="1" facs="facsimile.xml#z_0077_l01"/>
       <pb n="71" facs="facsimile.xml#surf_0077"/>
+      <lb n="1" facs="facsimile.xml#z_0077_l01"/>
       <w xml:id="c4_11639">diritto!)</w>
       <w xml:id="c4_11640">di</w>
       <w xml:id="c4_11641">non</w>
@@ -2222,9 +2222,9 @@
       <w xml:id="c4_11995">piuttosto</w>
       <w xml:id="c4_11996">a</w>
       <w xml:id="c4_11997">scansare</w>
-      <w xml:id="c4_11998">i</w>
-      <lb n="1" facs="facsimile.xml#z_0078_l01"/>
       <pb n="72" facs="facsimile.xml#surf_0078"/>
+      <lb n="1" facs="facsimile.xml#z_0078_l01"/>
+      <w xml:id="c4_11998">i</w>
       <w xml:id="c4_11999">colpi,</w>
       <w xml:id="c4_12000">e</w>
       <w xml:id="c4_12001">a</w>
@@ -2327,8 +2327,8 @@
       <w xml:id="c4_12093">a</w>
       <w xml:id="c4_12094">un</w>
       <w xml:id="c4_12095">punto</w>
-      <lb n="9" facs="facsimile.xml#z_0078_l09"/>
       <figure facs="facsimile.xml#z_0078_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228813" type="altre_illustrazioni"/>
+      <lb n="9" facs="facsimile.xml#z_0078_l09"/>
       <w xml:id="c4_12096">col</w>
       <w xml:id="c4_12097">povero</w>
       <persName><w xml:id="c4_12098">Cristoforo.</w></persName>
@@ -2433,8 +2433,8 @@
       <w xml:id="c4_12190">Una</w>
       <w xml:id="c4_12191">le</w>
       <w xml:id="c4_12192">paga</w>
-      <lb n="1" facs="facsimile.xml#z_0079_l01"/>
       <pb n="73" facs="facsimile.xml#surf_0079"/>
+      <lb n="1" facs="facsimile.xml#z_0079_l01"/>
       <w xml:id="c4_12193">tutte.</w>
       <w xml:id="c4_12194">—</w>
       <w xml:id="c4_12195">Ha</w>
@@ -2888,8 +2888,8 @@
       <w xml:id="c4_12607">frate.</w>
       </p>
 <p>
-      <lb n="1" facs="facsimile.xml#z_0080_l01"/>
       <pb n="74" facs="facsimile.xml#surf_0080"/>
+      <lb n="1" facs="facsimile.xml#z_0080_l01"/>
       <w xml:id="c4_12608">«L'altro</w>
       <w xml:id="c4_12609">era</w>
       <w xml:id="c4_12610">spirato,</w>
@@ -2997,8 +2997,8 @@
    </p>
    <p>
       <milestone unit="comma" n="36"/>
-      <lb n="10" facs="facsimile.xml#z_0080_l10"/>
       <figure facs="facsimile.xml#z_0080_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228814" type="altre_illustrazioni"/>
+      <lb n="10" facs="facsimile.xml#z_0080_l10"/>
       <w xml:id="c4_12704">Appena</w>
       <persName><w xml:id="c4_12705">Lodovico</w></persName>
       <w xml:id="c4_12706">ebbe</w>
@@ -3097,8 +3097,8 @@
       <w xml:id="c4_12793">segno</w>
       <w xml:id="c4_12794">del</w>
       <w xml:id="c4_12795">suo</w>
-      <lb n="1" facs="facsimile.xml#z_0081_l01"/>
       <pb n="75" facs="facsimile.xml#surf_0081"/>
+      <lb n="1" facs="facsimile.xml#z_0081_l01"/>
       <w xml:id="c4_12796">Volere,</w>
       <w xml:id="c4_12797">facendolo</w>
       <w xml:id="c4_12798">capitare</w>
@@ -3551,8 +3551,8 @@
       <w xml:id="c4_13208">che</w>
       <w xml:id="c4_13209">il</w>
       <w xml:id="c4_13210">cappuccino</w>
-      <lb n="1" facs="facsimile.xml#z_0082_l01"/>
       <pb n="76" facs="facsimile.xml#surf_0082"/>
+      <lb n="1" facs="facsimile.xml#z_0082_l01"/>
       <w xml:id="c4_13211">lasciò</w>
       <w xml:id="c4_13212">svaporare,</w>
       <w xml:id="c4_13213">dicendo</w>
@@ -3564,7 +3564,7 @@
       <w xml:id="c4_13219">un</w>
       <w xml:id="c4_13220">troppo</w>
       <w xml:id="c4_13221">giusto</w>
-      <w xml:id="c4_13222">do<lb n="2" facs="facsimile.xml#z_0082_l02" break="no" rend="hyphen"/>lore».</w>
+      <w xml:id="c4_13222">do<lb n="2" facs="facsimile.xml#z_0082_l02" break="no" rend="hyphen"/>lore.»</w>
       <w xml:id="c4_13223">Fece</w>
       <w xml:id="c4_13224">intendere</w>
       <w xml:id="c4_13225">che,</w>
@@ -4004,8 +4004,8 @@
    </p>
    <p>
       <milestone unit="comma" n="48"/>
-      <lb n="1" facs="facsimile.xml#z_0083_l01"/>
       <pb n="77" facs="facsimile.xml#surf_0083"/>
+      <lb n="1" facs="facsimile.xml#z_0083_l01"/>
       <w xml:id="c4_13622">Il</w>
       <w xml:id="c4_13623">gentiluomo</w>
       <w xml:id="c4_13624">pensò</w>
@@ -4134,8 +4134,8 @@
       <w xml:id="c4_13738">di</w>
       <w xml:id="c4_13739">paggi,</w>
       <w xml:id="c4_13740">di</w>
-      <lb n="12" facs="facsimile.xml#z_0083_l12"/>
       <figure facs="facsimile.xml#z_0083_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228815" type="altre_illustrazioni"/>
+      <lb n="12" facs="facsimile.xml#z_0083_l12"/>
       <w xml:id="c4_13741">bravi</w>
       <w xml:id="c4_13742">e</w>
       <w xml:id="c4_13743">di</w>
@@ -4249,8 +4249,8 @@
       <w xml:id="c4_13844">da'</w>
       <w xml:id="c4_13845">parenti</w>
       <w xml:id="c4_13846">più</w>
-      <lb n="1" facs="facsimile.xml#z_0084_l01"/>
       <pb n="78" facs="facsimile.xml#surf_0084"/>
+      <lb n="1" facs="facsimile.xml#z_0084_l01"/>
       <w xml:id="c4_13847">prossimi,</w>
       <w xml:id="c4_13848">stava</w>
       <w xml:id="c4_13849">ritto</w>
@@ -4427,8 +4427,8 @@
       <w xml:id="c4_14005">occhi</w>
       <w xml:id="c4_14006">erano</w>
       <w xml:id="c4_14007">immobili</w><figure facs="facsimile.xml#z_0084_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228816" type="altre_illustrazioni"/>
-      <lb n="1" facs="facsimile.xml#z_0085_l01"/>
       <pb n="79" facs="facsimile.xml#surf_0085"/>
+      <lb n="1" facs="facsimile.xml#z_0085_l01"/>
       <w xml:id="c4_14008">sul</w>
       <w xml:id="c4_14009">novizio,</w>
       <w xml:id="c4_14010">e</w>
@@ -4454,7 +4454,7 @@
       <w xml:id="c4_14029">la</w>
       <w xml:id="c4_14030">sala,</w>
       <w xml:id="c4_14031">un</w>
-      <w xml:id="c4_14032">mor<lb n="3" facs="facsimile.xml#z_0085_l03" break="no" rend="hyphen"/>morìo</w>
+      <w xml:id="c4_14032">mor<lb n="3" facs="facsimile.xml#z_0085_l03" break="no" rend="hyphen"/>morio</w>
       <w xml:id="c4_14033">di</w>
       <w xml:id="c4_14034">pietà</w>
       <w xml:id="c4_14035">e</w>
@@ -4894,8 +4894,8 @@
       <w xml:id="c4_14430">a</w>
       <w xml:id="c4_14431">lui,</w>
       <w xml:id="c4_14432">poterono</w>
-      <lb n="1" facs="facsimile.xml#z_0086_l01"/>
       <pb n="80" facs="facsimile.xml#surf_0086"/>
+      <lb n="1" facs="facsimile.xml#z_0086_l01"/>
       <w xml:id="c4_14433">impadronirsene</w>
       <w xml:id="c4_14434">un</w>
       <w xml:id="c4_14435">momento,</w>
@@ -4928,8 +4928,8 @@
       <w xml:id="c4_14462">il</w>
       <w xml:id="c4_14463">cappuccio;</w>
       <w xml:id="c4_14464">e</w>
-      <lb n="4" facs="facsimile.xml#z_0086_l04"/>
       <figure facs="facsimile.xml#z_0086_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228817" type="altre_illustrazioni"/>
+      <lb n="4" facs="facsimile.xml#z_0086_l04"/>
       <w xml:id="c4_14465">si</w>
       <w xml:id="c4_14466">trovò</w>
       <w xml:id="c4_14467">nella</w>
@@ -5128,8 +5128,8 @@
       <w xml:id="c4_14644">medesimo</w>
       <w xml:id="c4_14645">aveva</w>
       <w xml:id="c4_14646">detto;</w>
-      <lb n="1" facs="facsimile.xml#z_0087_l01"/>
       <pb n="81" facs="facsimile.xml#surf_0087"/>
+      <lb n="1" facs="facsimile.xml#z_0087_l01"/>
       <w xml:id="c4_14647">e</w>
       <w xml:id="c4_14648">borbottava</w>
       <w xml:id="c4_14649">tra</w>
@@ -5550,8 +5550,8 @@
       <w xml:id="c4_15027">sarebbe</w>
       <w xml:id="c4_15028">corso</w>
       <w xml:id="c4_15029">immediatamente.</w>
-      <lb n="1" facs="facsimile.xml#z_0088_l01"/>
       <pb n="82" facs="facsimile.xml#surf_0088"/>
+      <lb n="1" facs="facsimile.xml#z_0088_l01"/>
       <w xml:id="c4_15030">Trattandosi</w>
       <w xml:id="c4_15031">poi</w>
       <w xml:id="c4_15032">di</w>

@@ -4,7 +4,7 @@
    <head facs="facsimile.xml#z_0053_l01">CAPITOLO III.</head>
    <p>
       <milestone unit="comma" n="1"/>
-      <persName><lb n="2" facs="facsimile.xml#z_0053_l02"/><figure facs="facsimile.xml#z_0053_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228797" type="intestazione"/><w xml:id="c3_10001">Lucia</w></persName>
+      <persName><figure facs="facsimile.xml#z_0053_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228797" type="intestazione"/><lb n="2" facs="facsimile.xml#z_0053_l02"/><w xml:id="c3_10001">Lucia</w></persName>
       <w xml:id="c3_10002">entrò</w>
       <w xml:id="c3_10003">nella</w>
       <w xml:id="c3_10004">stanza</w>
@@ -145,8 +145,8 @@
    </p>
    <p>
       <milestone unit="comma" n="3"/>
-      <lb n="1" facs="facsimile.xml#z_0054_l01"/>
       <pb n="48" facs="facsimile.xml#surf_0054"/>
+      <lb n="1" facs="facsimile.xml#z_0054_l01"/>
       <w xml:id="c3_10123">«Santissima</w>
       <w xml:id="c3_10124">Vergine!»</w>
       <w xml:id="c3_10125">esclamò</w>
@@ -577,8 +577,8 @@
       <w xml:id="c3_10504">e</w>
       <w xml:id="c3_10505">che</w>
       <w xml:id="c3_10506">sperava</w>
-      <lb n="1" facs="facsimile.xml#z_0055_l01"/>
       <pb n="49" facs="facsimile.xml#surf_0055"/>
+      <lb n="1" facs="facsimile.xml#z_0055_l01"/>
       <w xml:id="c3_10507">che</w>
       <w xml:id="c3_10508">colui,</w>
       <w xml:id="c3_10509">non</w>
@@ -876,7 +876,7 @@
       <w xml:id="c3_10766">si</w>
       <w xml:id="c3_10767">rimise</w>
       <w xml:id="c3_10768">a</w>
-      <w xml:id="c3_10769">piangere;</w>
+      <w xml:id="c3_10769">piangere:</w>
       <w xml:id="c3_10770">e</w>
       <w xml:id="c3_10771">tutt'e</w>
       <w xml:id="c3_10772">tre</w>
@@ -1027,8 +1027,8 @@
       <w xml:id="c3_10906">chiaman</w>
       <w xml:id="c3_10907">tutti</w>
       <w xml:id="c3_10908">a</w>
-      <lb n="1" facs="facsimile.xml#z_0056_l01"/>
       <pb n="50" facs="facsimile.xml#surf_0056"/>
+      <lb n="1" facs="facsimile.xml#z_0056_l01"/>
       <w xml:id="c3_10909">quel</w>
       <w xml:id="c3_10910">modo.</w>
       <w xml:id="c3_10911">Basta,</w>
@@ -1052,8 +1052,8 @@
       <w xml:id="c3_10928">guancia.»</w>
       </p>
 <p>
-      <lb n="3" facs="facsimile.xml#z_0056_l03"/>
       <figure facs="facsimile.xml#z_0056_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228799" type="altre_illustrazioni"/>
+      <lb n="3" facs="facsimile.xml#z_0056_l03"/>
       <w xml:id="c3_10929">«Lo</w>
       <w xml:id="c3_10930">conosco</w>
       <w xml:id="c3_10931">di</w>
@@ -1142,7 +1142,7 @@
       <w xml:id="c3_11006">con</w>
       <w xml:id="c3_11007">le</w>
       <w xml:id="c3_11008">mani</w>
-      <w xml:id="c3_11009">vòte</w>
+      <w xml:id="c3_11009">vote</w>
       <w xml:id="c3_11010">da</w>
       <w xml:id="c3_11011">que'</w>
       <w xml:id="c3_11012">si<lb n="11" facs="facsimile.xml#z_0056_l11" break="no" rend="hyphen"/>gnori.</w>
@@ -1276,8 +1276,8 @@
       <w xml:id="c3_11129">fremendo,</w>
       <w xml:id="c3_11130">ripensando</w>
       <w xml:id="c3_11131">alla</w>
-      <lb n="1" facs="facsimile.xml#z_0057_l01"/>
       <pb n="51" facs="facsimile.xml#surf_0057"/>
+      <lb n="1" facs="facsimile.xml#z_0057_l01"/>
       <w xml:id="c3_11132">sua</w>
       <w xml:id="c3_11133">disgrazia,</w>
       <w xml:id="c3_11134">e</w>
@@ -1399,8 +1399,8 @@
    </p>
    <p>
       <milestone unit="comma" n="14"/>
-      <lb n="11" facs="facsimile.xml#z_0057_l11"/>
       <figure facs="facsimile.xml#z_0057_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228800" type="altre_illustrazioni"/>
+      <lb n="11" facs="facsimile.xml#z_0057_l11"/>
       <w xml:id="c3_11242">Giunto</w>
       <w xml:id="c3_11243">al</w>
       <w xml:id="c3_11244">borgo,</w>
@@ -1510,7 +1510,7 @@
       <w xml:id="c3_11341">qui,</w>
       <w xml:id="c3_11342">e</w>
       <w xml:id="c3_11343">andate</w>
-      <w xml:id="c3_11344">innanzi».</w>
+      <w xml:id="c3_11344">innanzi.»</w>
       <persName><w xml:id="c3_11345">Renzo</w></persName>
       <w xml:id="c3_11346">fece</w>
       <w xml:id="c3_11347">un</w>
@@ -1553,8 +1553,8 @@
       <w xml:id="c3_11380">dodici</w>
       <persName><w xml:id="c3_11381">Cesari;</w></persName>
       <w xml:id="c3_11382">la</w>
-      <lb n="1" facs="facsimile.xml#z_0058_l01"/>
       <pb n="52" facs="facsimile.xml#surf_0058"/>
+      <lb n="1" facs="facsimile.xml#z_0058_l01"/>
       <w xml:id="c3_11383">quarta,</w>
       <w xml:id="c3_11384">coperta</w>
       <w xml:id="c3_11385">da</w>
@@ -1993,8 +1993,8 @@
       <w xml:id="c3_11766">fatto</w>
       <w xml:id="c3_11767">un</w>
       <w xml:id="c3_11768">viso</w>
-      <lb n="1" facs="facsimile.xml#z_0059_l01"/>
       <pb n="53" facs="facsimile.xml#surf_0059"/>
+      <lb n="1" facs="facsimile.xml#z_0059_l01"/>
       <w xml:id="c3_11769">ancor</w>
       <w xml:id="c3_11770">più</w>
       <w xml:id="c3_11771">serio,</w>
@@ -2072,8 +2072,8 @@
       </p>
 <p>
       <hi rend="italic">
-         <lb n="9" facs="facsimile.xml#z_0059_l09"/>
          <figure facs="facsimile.xml#z_0059_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228801" type="altre_illustrazioni"/>
+         <lb n="9" facs="facsimile.xml#z_0059_l09"/>
          <w xml:id="c3_11830">«Se</w>
          <w xml:id="c3_11831">bene,</w>
          <w xml:id="c3_11832">per</w>
@@ -2202,8 +2202,8 @@
          <w xml:id="c3_11934">mostrando</w>
          <w xml:id="c3_11935">l'esperienza</w>
          <w xml:id="c3_11936">che</w>
-         <lb n="1" facs="facsimile.xml#z_0060_l01"/>
          <pb n="54" facs="facsimile.xml#surf_0060"/>
+         <lb n="1" facs="facsimile.xml#z_0060_l01"/>
          <w xml:id="c3_11937">molti,</w>
          <w xml:id="c3_11938">così</w>
          <w xml:id="c3_11939">nelle</w>
@@ -2695,8 +2695,8 @@
       <w xml:id="c3_12356">volto,</w>
       <w xml:id="c3_12357">come</w>
       <w xml:id="c3_12358">una</w>
-      <lb n="1" facs="facsimile.xml#z_0061_l01"/>
       <pb n="55" facs="facsimile.xml#surf_0061"/>
+      <lb n="1" facs="facsimile.xml#z_0061_l01"/>
       <w xml:id="c3_12359">visiera,</w>
       <w xml:id="c3_12360">all'atto</w>
       <w xml:id="c3_12361">d'affrontar</w>
@@ -3187,8 +3187,8 @@
       <w xml:id="c3_12791">io</w>
       <w xml:id="c3_12792">anderò</w>
       <w xml:id="c3_12793">da</w>
-      <lb n="1" facs="facsimile.xml#z_0062_l01"/>
       <pb n="56" facs="facsimile.xml#surf_0062"/>
+      <lb n="1" facs="facsimile.xml#z_0062_l01"/>
       <w xml:id="c3_12794">lui,</w>
       <w xml:id="c3_12795">a</w>
       <w xml:id="c3_12796">fare</w>
@@ -3663,8 +3663,8 @@
       <w xml:id="c3_13226">giovine,</w>
       <w xml:id="c3_13227">alla</w>
       <w xml:id="c3_13228">quale</w>
-      <lb n="1" facs="facsimile.xml#z_0063_l01"/>
       <pb n="57" facs="facsimile.xml#surf_0063"/>
+      <lb n="1" facs="facsimile.xml#z_0063_l01"/>
       <w xml:id="c3_13229">discorrevo,</w>
       <w xml:id="c3_13230">fin</w>
       <w xml:id="c3_13231">da</w>
@@ -3820,8 +3820,8 @@
       <w xml:id="c3_13369">aria.»</w>
       </p>
 <p>
-      <lb n="14" facs="facsimile.xml#z_0063_l14"/>
       <figure facs="facsimile.xml#z_0063_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228802" type="altre_illustrazioni"/>
+      <lb n="14" facs="facsimile.xml#z_0063_l14"/>
       <w xml:id="c3_13370">«Le</w>
       <w xml:id="c3_13371">giuro...»</w>
    </p>
@@ -3871,8 +3871,8 @@
       <w xml:id="c3_13410">galantuomo.»</w>
       </p>
 <p>
-      <lb n="1" facs="facsimile.xml#z_0064_l01"/>
       <pb n="58" facs="facsimile.xml#surf_0064"/>
+      <lb n="1" facs="facsimile.xml#z_0064_l01"/>
       <w xml:id="c3_13411">«Ma</w>
       <w xml:id="c3_13412">senta,</w>
       <w xml:id="c3_13413">ma</w>
@@ -4029,8 +4029,8 @@
    </p>
    <p>
       <milestone unit="comma" n="42"/>
-      <lb n="14" facs="facsimile.xml#z_0064_l14"/>
       <figure facs="facsimile.xml#z_0064_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228803" type="altre_illustrazioni"/>
+      <lb n="14" facs="facsimile.xml#z_0064_l14"/>
       <w xml:id="c3_13550">Le</w>
       <w xml:id="c3_13551">donne,</w>
       <w xml:id="c3_13552">nella</w>
@@ -4128,9 +4128,9 @@
       <w xml:id="c3_13638">ciò</w>
       <w xml:id="c3_13639">ch'era</w>
       <w xml:id="c3_13640">accaduto.</w>
-      <w xml:id="c3_13641">«Sicuro»,</w>
-      <lb n="1" facs="facsimile.xml#z_0065_l01"/>
+      <w xml:id="c3_13641">«Sicuro,»</w>
       <pb n="59" facs="facsimile.xml#surf_0065"/>
+      <lb n="1" facs="facsimile.xml#z_0065_l01"/>
       <w xml:id="c3_13642">disse</w>
       <persName><w xml:id="c3_13643">Agnese:</w></persName>
       <w xml:id="c3_13644">e</w>
@@ -4258,8 +4258,8 @@
       <w xml:id="c3_13753">donne.</w>
       </p>
 <p>
-      <lb n="12" facs="facsimile.xml#z_0065_l12"/>
       <figure facs="facsimile.xml#z_0065_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228804" type="altre_illustrazioni"/>
+      <lb n="12" facs="facsimile.xml#z_0065_l12"/>
       <w xml:id="c3_13754">«Il</w>
       <w xml:id="c3_13755">Signore</w>
       <w xml:id="c3_13756">sia</w>
@@ -4278,7 +4278,7 @@
    <p>
       <milestone unit="comma" n="44"/>
       <lb n="14" facs="facsimile.xml#z_0065_l14"/>
-      <w xml:id="c3_13767">«Va'</w>
+      <w xml:id="c3_13767">«Va</w>
       <w xml:id="c3_13768">a</w>
       <w xml:id="c3_13769">prender</w>
       <w xml:id="c3_13770">le</w>
@@ -4352,8 +4352,8 @@
       <w xml:id="c3_13831">disse:</w>
       <w xml:id="c3_13832">«e</w>
       <w xml:id="c3_13833">questo</w>
-      <lb n="1" facs="facsimile.xml#z_0066_l01"/>
       <pb n="60" facs="facsimile.xml#surf_0066"/>
+      <lb n="1" facs="facsimile.xml#z_0066_l01"/>
       <w xml:id="c3_13834">matrimonio?</w>
       <w xml:id="c3_13835">Si</w>
       <w xml:id="c3_13836">doveva</w>
@@ -4429,7 +4429,7 @@
       <w xml:id="c3_13896">Le</w>
       <w xml:id="c3_13897">son</w>
       <w xml:id="c3_13898">tutte</w>
-      <w xml:id="c3_13899">qui».</w>
+      <w xml:id="c3_13899">qui.»</w>
       <w xml:id="c3_13900">E,</w>
       <w xml:id="c3_13901">così</w>
       <lb n="8" facs="facsimile.xml#z_0066_l08"/>
@@ -4823,8 +4823,8 @@
       <w xml:id="c3_14253">sentito</w>
       <w xml:id="c3_14254">dire</w>
       <w xml:id="c3_14255">che</w>
-      <lb n="1" facs="facsimile.xml#z_0067_l01"/>
       <pb n="61" facs="facsimile.xml#surf_0067"/>
+      <lb n="1" facs="facsimile.xml#z_0067_l01"/>
       <w xml:id="c3_14256">i</w>
       <w xml:id="c3_14257">cappuccini</w>
       <w xml:id="c3_14258">sapessero</w>
@@ -4860,8 +4860,8 @@
       <w xml:id="c3_14285">noce,</w>
       <w xml:id="c3_14286">e</w>
       <w xml:id="c3_14287">rideva</w>
-      <lb n="4" facs="facsimile.xml#z_0067_l04"/>
       <figure facs="facsimile.xml#z_0067_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228805" type="altre_illustrazioni"/>
+      <lb n="4" facs="facsimile.xml#z_0067_l04"/>
       <w xml:id="c3_14288">de'</w>
       <w xml:id="c3_14289">frati.</w>
       <w xml:id="c3_14290">Que'</w>
@@ -5015,8 +5015,8 @@
    </p>
    <p>
       <milestone unit="comma" n="53"/>
-      <lb n="1" facs="facsimile.xml#z_0068_l01"/>
       <pb n="62" facs="facsimile.xml#surf_0068"/>
+      <lb n="1" facs="facsimile.xml#z_0068_l01"/>
       <w xml:id="c3_14428">Qui</w>
       <w xml:id="c3_14429">ricomparve</w>
       <persName><w xml:id="c3_14430">Lucia,</w></persName>
@@ -5471,8 +5471,8 @@
    </p>
    <p>
       <milestone unit="comma" n="58"/>
-      <lb n="1" facs="facsimile.xml#z_0069_l01"/>
       <pb n="63" facs="facsimile.xml#surf_0069"/>
+      <lb n="1" facs="facsimile.xml#z_0069_l01"/>
       <w xml:id="c3_14837">Partito</w>
       <w xml:id="c3_14838">fra</w>
       <persName><w xml:id="c3_14839">Galdino,</w></persName>
@@ -5631,8 +5631,8 @@
       <w xml:id="c3_14972">giorno.</w>
       </p>
 <p>
-      <lb n="15" facs="facsimile.xml#z_0069_l15"/>
       <figure facs="facsimile.xml#z_0069_fig1" corresp="https://dlrc.ficlit.unibo.it/api/items/228806" type="altre_illustrazioni"/>
+      <lb n="15" facs="facsimile.xml#z_0069_l15"/>
       <w xml:id="c3_14973">«Bel</w>
       <w xml:id="c3_14974">parere</w>
       <w xml:id="c3_14975">che</w>
@@ -5694,8 +5694,8 @@
       <w xml:id="c3_15028">come</w>
       <w xml:id="c3_15029">andava</w>
       <w xml:id="c3_15030">fatta;</w>
-      <lb n="1" facs="facsimile.xml#z_0070_l01"/>
       <pb n="64" facs="facsimile.xml#surf_0070"/>
+      <lb n="1" facs="facsimile.xml#z_0070_l01"/>
       <w xml:id="c3_15031">ma</w>
       <persName><w xml:id="c3_15032">Lucia</w></persName>
       <w xml:id="c3_15033">interruppe</w>

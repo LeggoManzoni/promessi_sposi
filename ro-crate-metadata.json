@@ -1,0 +1,425 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "I Promessi Sposi (Quarantana, 1840): a facsimile-aligned TEI edition",
+      "description": "A TEI encoding of Alessandro Manzoni's I promessi sposi whose reading text is aligned, line by line, to a digital facsimile of the Quarantana (the illustrated 1840 Milan edition Manzoni himself supervised). The reading text is documentary: it presents the text of that printed exemplar, with the manifest errors of the print corrected; the facsimile layer reproduces a physical copy of the Quarantana held in a private collection (fondo privato), digitized by FICLIT/AdLab and served over IIIF by the FICLIT Digital Library (Università di Bologna). Every line of the text is linked to the pixel region of the printed page it corresponds to, and every illustration is linked to its zone on the page, so the edition can be read as text, viewed as page images, or rendered as a synchronized text-and-facsimile interface.",
+      "version": "1.0.0",
+      "inLanguage": "ita",
+      "datePublished": "2026-07-25",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "author": [
+        {
+          "@id": "https://orcid.org/0000-0003-0602-8912"
+        },
+        {
+          "@id": "https://orcid.org/0000-0002-5245-4296"
+        },
+        {
+          "@id": "https://orcid.org/0009-0008-2649-0729"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "#luca-tarozzi"
+        },
+        {
+          "@id": "#marianna-berti"
+        },
+        {
+          "@id": "#martina-gennari"
+        },
+        {
+          "@id": "#elena-casadio-tozzi"
+        },
+        {
+          "@id": "#francesca-speranza"
+        },
+        {
+          "@id": "#caterina-miracle-bragantini"
+        },
+        {
+          "@id": "#lucia-natalini"
+        },
+        {
+          "@id": "#lorenzo-sabatino"
+        },
+        {
+          "@id": "https://orcid.org/0000-0003-0602-8912"
+        },
+        {
+          "@id": "#ficlit-alignment-pipeline"
+        }
+      ],
+      "publisher": {
+        "@id": "#leggomanzoni"
+      },
+      "keywords": [
+        "TEI",
+        "digital philology",
+        "Alessandro Manzoni",
+        "I promessi sposi",
+        "facsimile",
+        "IIIF",
+        "text alignment"
+      ],
+      "identifier": "https://doi.org/TODO  (minted by Zenodo on deposit)",
+      "isBasedOn": [
+        {
+          "@id": "#quarantana-1840"
+        },
+        {
+          "@id": "#poggi-salani-2013"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "quarantana/"
+        },
+        {
+          "@id": "dist/promessi-sposi-quarantana.xml"
+        },
+        {
+          "@id": "illustrations_metadata.csv"
+        },
+        {
+          "@id": "schema/"
+        },
+        {
+          "@id": "docs/editorial-decisions-quarantana.md"
+        },
+        {
+          "@id": "docs/documentary-emendations.md"
+        },
+        {
+          "@id": "docs/quarantana-poggisalani-collation.md"
+        },
+        {
+          "@id": "docs/ps-divergences.md"
+        },
+        {
+          "@id": "docs/id-changes.md"
+        },
+        {
+          "@id": "docs/encoding-guidelines.md"
+        },
+        {
+          "@id": "docs/validation-report.md"
+        },
+        {
+          "@id": "CHANGELOG.md"
+        },
+        {
+          "@id": "CONTRIBUTORS.md"
+        },
+        {
+          "@id": "RIGHTS.md"
+        },
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "LICENSE"
+        }
+      ]
+    },
+    {
+      "@id": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "@type": "CreativeWork",
+      "name": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "@id": "https://spdx.org/licenses/MIT.html",
+      "@type": "CreativeWork",
+      "name": "MIT License"
+    },
+    {
+      "@id": "#quarantana-1840",
+      "@type": [
+        "Book",
+        "CreativeWork"
+      ],
+      "name": "I promessi sposi (Milano, Guglielmini e Redaelli, 1840, la Quarantana)",
+      "author": {
+        "@id": "#manzoni"
+      },
+      "datePublished": "1840",
+      "description": "Documentary base: the 1840 print. The digitized exemplar comes from a private collection (fondo privato); FICLIT digitized it and hosts the IIIF facsimile.",
+      "subjectOf": {
+        "@id": "https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest"
+      },
+      "provider": {
+        "@id": "#ficlit"
+      }
+    },
+    {
+      "@id": "https://dlrc.ficlit.unibo.it/iiif/2/232045/manifest",
+      "@type": "MediaObject",
+      "name": "FICLIT IIIF manifest — digitized Quarantana facsimile",
+      "encodingFormat": "application/ld+json",
+      "provider": {
+        "@id": "#ficlit"
+      }
+    },
+    {
+      "@id": "#poggi-salani-2013",
+      "@type": [
+        "Book",
+        "CreativeWork"
+      ],
+      "name": "I promessi sposi, ed. Teresa Poggi Salani (Edizione Nazionale, 2013)",
+      "author": {
+        "@id": "#manzoni"
+      },
+      "editor": {
+        "@id": "#teresa-poggi-salani"
+      },
+      "datePublished": "2013",
+      "isbn": "9788887924275",
+      "publisher": "Centro Nazionale Studi Manzoniani",
+      "description": "Collation witness: consulted to verify the documentary text; not distributed in this dataset."
+    },
+    {
+      "@id": "#teresa-poggi-salani",
+      "@type": "Person",
+      "name": "Teresa Poggi Salani"
+    },
+    {
+      "@id": "#manzoni",
+      "@type": "Person",
+      "name": "Alessandro Manzoni",
+      "sameAs": "http://viaf.org/viaf/61565420"
+    },
+    {
+      "@id": "#ficlit",
+      "@type": "Organization",
+      "name": "FICLIT Digital Library, Universita di Bologna",
+      "url": "https://dlrc.ficlit.unibo.it"
+    },
+    {
+      "@id": "#leggomanzoni",
+      "@type": "Organization",
+      "name": "LeggoManzoni (Manzoni Online)",
+      "url": "https://www.alessandromanzoni.org"
+    },
+    {
+      "@id": "quarantana/",
+      "@type": "Dataset",
+      "description": "The documentary TEI edition: chapter <div> fragments, header.xml, facsimile.xml (surface/zone layer) and listPerson.xml.",
+      "encodingFormat": "application/tei+xml",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "dist/promessi-sposi-quarantana.xml",
+      "@type": "File",
+      "description": "The assembled single-file TEI edition.",
+      "encodingFormat": "application/tei+xml",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "illustrations_metadata.csv",
+      "@type": "File",
+      "description": "Catalogue of 505 illustrations with IIIF region URLs.",
+      "encodingFormat": "text/csv",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "schema/",
+      "@type": "Dataset",
+      "description": "TEI ODD customization, the extracted Schematron rules, and the frozen xml:id contract (id-contract.json + documented removals).",
+      "encodingFormat": "application/xml",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "docs/editorial-decisions-quarantana.md",
+      "@type": "File",
+      "description": "Editorial decisions: documentary text vs Poggi Salani.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "docs/documentary-emendations.md",
+      "@type": "File",
+      "description": "Category-A print reverts (incl. the <sic> non-words).",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "docs/quarantana-poggisalani-collation.md",
+      "@type": "File",
+      "description": "Systematic collation of the divergences.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "docs/ps-divergences.md",
+      "@type": "File",
+      "description": "Token-anchored catalog of every documentary-vs-Poggi-Salani divergence.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "docs/id-changes.md",
+      "@type": "File",
+      "description": "xml:id delta vs the initial LeggoManzoni encoding (for id-anchored consumers).",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "docs/encoding-guidelines.md",
+      "@type": "File",
+      "description": "Markup conventions of the edition.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "docs/validation-report.md",
+      "@type": "File",
+      "description": "Integrity-check report of the deposit.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "CHANGELOG.md",
+      "@type": "File",
+      "description": "Release history.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "CONTRIBUTORS.md",
+      "@type": "File",
+      "description": "Contributor credits.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "RIGHTS.md",
+      "@type": "File",
+      "description": "Rights statement.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "README.md",
+      "@type": "File",
+      "description": "Dataset overview.",
+      "encodingFormat": "text/markdown",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "LICENSE",
+      "@type": "File",
+      "description": "CC BY-NC 4.0 licence.",
+      "encodingFormat": "text/plain",
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-0602-8912",
+      "@type": "Person",
+      "name": "Nava, Beatrice"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-5245-4296",
+      "@type": "Person",
+      "name": "Russo, Ersilia"
+    },
+    {
+      "@id": "https://orcid.org/0009-0008-2649-0729",
+      "@type": "Person",
+      "name": "Levchenko, Maria"
+    },
+    {
+      "@id": "#luca-tarozzi",
+      "@type": "Person",
+      "name": "Luca Tarozzi"
+    },
+    {
+      "@id": "#marianna-berti",
+      "@type": "Person",
+      "name": "Marianna Berti"
+    },
+    {
+      "@id": "#martina-gennari",
+      "@type": "Person",
+      "name": "Martina Gennari"
+    },
+    {
+      "@id": "#elena-casadio-tozzi",
+      "@type": "Person",
+      "name": "Elena Casadio Tozzi"
+    },
+    {
+      "@id": "#francesca-speranza",
+      "@type": "Person",
+      "name": "Francesca Speranza"
+    },
+    {
+      "@id": "#caterina-miracle-bragantini",
+      "@type": "Person",
+      "name": "Caterina Miracle Bragantini"
+    },
+    {
+      "@id": "#lucia-natalini",
+      "@type": "Person",
+      "name": "Lucia Natalini"
+    },
+    {
+      "@id": "#lorenzo-sabatino",
+      "@type": "Person",
+      "name": "Lorenzo Sabatino"
+    },
+    {
+      "@id": "#ficlit-alignment-pipeline",
+      "@type": "SoftwareApplication",
+      "name": "ficlit-alignment-pipeline"
+    }
+  ]
+}
